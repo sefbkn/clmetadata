@@ -48,10 +48,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClCategory.cs" />
+    <Compile Include="ClSubCategory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Region.cs" />
-    <Compile Include="SubRegion.cs" />
+    <Compile Include="ClRegion.cs" />
+    <Compile Include="ClSubRegion.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
