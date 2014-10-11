@@ -33,8 +33,8 @@ namespace CFLocationBuilder
             // Write data to json files on the desktop.
             var targetDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
             var json = JsonConvert.SerializeObject(new { 
-                Categories = categories,
-                Locations = regions
+                categories = categories,
+                locations = regions
             }, Formatting.Indented);
 
             var metadataFileOut = Path.Combine(targetDirectory, "cl_metadata.json");
