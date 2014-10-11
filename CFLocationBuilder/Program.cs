@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using HtmlAgilityPack;
+using System.Threading;
 
 namespace CFLocationBuilder
 {
@@ -23,6 +24,7 @@ namespace CFLocationBuilder
             var webClient = new WebClient();
 
             var locationsHtml = webClient.DownloadString(baseLocationsUrl);
+            Thread.Sleep(1000 * 1); // Try not to get blocked.
             var categoriesHtml = webClient.DownloadString(baseCategoriesUrl);
 
             // Pull categories from a listings page and retrieve all of the relevant information.
@@ -32,17 +34,19 @@ namespace CFLocationBuilder
 
             // Write data to json files on the desktop.
             var targetDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            var json = JsonConvert.SerializeObject(new { 
+            var data = new { 
                 categories = categories,
                 locations = regions
-            }, Formatting.Indented);
+            };
+
+            var json = JsonConvert.SerializeObject(data, Formatting.Indented);
+            var jsonMin = JsonConvert.SerializeObject(data, Formatting.None);
 
             var metadataFileOut = Path.Combine(targetDirectory, "cl_metadata.json");
+            var metadataMinFileOut = Path.Combine(targetDirectory, "cl_metadata.min.json");
 
             File.WriteAllText(metadataFileOut, json);
-            
-            Console.WriteLine(json);
-            Console.ReadLine();
+            File.WriteAllText(metadataMinFileOut, jsonMin);
         }
     }
 }
