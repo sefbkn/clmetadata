@@ -1,0 +1,5110 @@
+{
+  "categories": [
+    {
+      "name": "community",
+      "code": "ccc",
+      "sub_categories": [
+        {
+          "name": "activities",
+          "code": "/search/act"
+        },
+        {
+          "name": "artists",
+          "code": "/search/ats"
+        },
+        {
+          "name": "childcare",
+          "code": "/search/kid"
+        },
+        {
+          "name": "classes",
+          "code": "/search/cls"
+        },
+        {
+          "name": "events",
+          "code": "/search/eve"
+        },
+        {
+          "name": "general",
+          "code": "/search/com"
+        },
+        {
+          "name": "groups",
+          "code": "/search/grp"
+        },
+        {
+          "name": "local news",
+          "code": "/search/vnn"
+        },
+        {
+          "name": "lost+found",
+          "code": "/search/laf"
+        },
+        {
+          "name": "musicians",
+          "code": "/search/muc"
+        },
+        {
+          "name": "pets",
+          "code": "/search/pet"
+        },
+        {
+          "name": "politics",
+          "code": "/search/pol"
+        },
+        {
+          "name": "rideshare",
+          "code": "/search/rid"
+        },
+        {
+          "name": "volunteers",
+          "code": "/search/vol"
+        }
+      ]
+    },
+    {
+      "name": "personals",
+      "code": "ppp",
+      "sub_categories": [
+        {
+          "name": "strictly platonic",
+          "code": "/i/personals?category=stp"
+        },
+        {
+          "name": "women seek women",
+          "code": "/i/personals?category=w4w"
+        },
+        {
+          "name": "women seeking men",
+          "code": "/i/personals?category=w4m"
+        },
+        {
+          "name": "men seeking women",
+          "code": "/i/personals?category=m4w"
+        },
+        {
+          "name": "men seeking men",
+          "code": "/i/personals?category=m4m"
+        },
+        {
+          "name": "misc romance",
+          "code": "/i/personals?category=msr"
+        },
+        {
+          "name": "casual encounters",
+          "code": "/i/personals?category=cas"
+        },
+        {
+          "name": "missed connections",
+          "code": "/i/personals?category=mis"
+        },
+        {
+          "name": "rants and raves",
+          "code": "/i/personals?category=rnr"
+        }
+      ]
+    },
+    {
+      "name": "discussion forums",
+      "code": "forums",
+      "sub_categories": [
+        {
+          "name": "apple",
+          "code": "/forums/?forumID=3232"
+        },
+        {
+          "name": "arts",
+          "code": "/forums/?forumID=49"
+        },
+        {
+          "name": "atheist",
+          "code": "/forums/?forumID=78"
+        },
+        {
+          "name": "autos",
+          "code": "/forums/?forumID=5"
+        },
+        {
+          "name": "beauty",
+          "code": "/forums/?forumID=88"
+        },
+        {
+          "name": "bikes",
+          "code": "/forums/?forumID=95"
+        },
+        {
+          "name": "celebs",
+          "code": "/forums/?forumID=47"
+        },
+        {
+          "name": "comp",
+          "code": "/forums/?forumID=34"
+        },
+        {
+          "name": "crafts",
+          "code": "/forums/?forumID=83"
+        },
+        {
+          "name": "diet",
+          "code": "/forums/?forumID=122"
+        },
+        {
+          "name": "divorce",
+          "code": "/forums/?forumID=76"
+        },
+        {
+          "name": "dying",
+          "code": "/forums/?forumID=130"
+        },
+        {
+          "name": "eco",
+          "code": "/forums/?forumID=99"
+        },
+        {
+          "name": "educ",
+          "code": "/forums/?forumID=90"
+        },
+        {
+          "name": "feedbk",
+          "code": "/forums/?forumID=8"
+        },
+        {
+          "name": "film",
+          "code": "/forums/?forumID=41"
+        },
+        {
+          "name": "fitness",
+          "code": "/forums/?forumID=92"
+        },
+        {
+          "name": "fixit",
+          "code": "/forums/?forumID=64"
+        },
+        {
+          "name": "food",
+          "code": "/forums/?forumID=22"
+        },
+        {
+          "name": "frugal",
+          "code": "/forums/?forumID=2007"
+        },
+        {
+          "name": "gaming",
+          "code": "/forums/?forumID=85"
+        },
+        {
+          "name": "garden",
+          "code": "/forums/?forumID=54"
+        },
+        {
+          "name": "haiku",
+          "code": "/forums/?forumID=575"
+        },
+        {
+          "name": "help",
+          "code": "/forums/?forumID=9"
+        },
+        {
+          "name": "history",
+          "code": "/forums/?forumID=81"
+        },
+        {
+          "name": "housing",
+          "code": "/forums/?forumID=6"
+        },
+        {
+          "name": "jobs",
+          "code": "/forums/?forumID=7"
+        },
+        {
+          "name": "jokes",
+          "code": "/forums/?forumID=1257"
+        },
+        {
+          "name": "kink",
+          "code": "/forums/?forumID=200269"
+        },
+        {
+          "name": "legal",
+          "code": "/forums/?forumID=73"
+        },
+        {
+          "name": "linux",
+          "code": "/forums/?forumID=1991"
+        },
+        {
+          "name": "m4m",
+          "code": "/forums/?forumID=72"
+        },
+        {
+          "name": "manners",
+          "code": "/forums/?forumID=79"
+        },
+        {
+          "name": "marriage",
+          "code": "/forums/?forumID=1926"
+        },
+        {
+          "name": "media",
+          "code": "/forums/?forumID=133"
+        },
+        {
+          "name": "money",
+          "code": "/forums/?forumID=53"
+        },
+        {
+          "name": "motocy",
+          "code": "/forums/?forumID=1947"
+        },
+        {
+          "name": "music",
+          "code": "/forums/?forumID=24"
+        },
+        {
+          "name": "nonprofit",
+          "code": "/forums/?forumID=501"
+        },
+        {
+          "name": "open",
+          "code": "/forums/?forumID=4"
+        },
+        {
+          "name": "outdoor",
+          "code": "/forums/?forumID=16"
+        },
+        {
+          "name": "over 50",
+          "code": "/forums/?forumID=50"
+        },
+        {
+          "name": "parent",
+          "code": "/forums/?forumID=39"
+        },
+        {
+          "name": "pets",
+          "code": "/forums/?forumID=26"
+        },
+        {
+          "name": "philos",
+          "code": "/forums/?forumID=71"
+        },
+        {
+          "name": "photo",
+          "code": "/forums/?forumID=5500"
+        },
+        {
+          "name": "p.o.c.",
+          "code": "/forums/?forumID=84"
+        },
+        {
+          "name": "politics",
+          "code": "/forums/?forumID=20"
+        },
+        {
+          "name": "psych",
+          "code": "/forums/?forumID=29"
+        },
+        {
+          "name": "queer",
+          "code": "/forums/?forumID=46"
+        },
+        {
+          "name": "recover",
+          "code": "/forums/?forumID=12"
+        },
+        {
+          "name": "religion",
+          "code": "/forums/?forumID=59"
+        },
+        {
+          "name": "romance",
+          "code": "/forums/?forumID=28"
+        },
+        {
+          "name": "science",
+          "code": "/forums/?forumID=96"
+        },
+        {
+          "name": "spirit",
+          "code": "/forums/?forumID=93"
+        },
+        {
+          "name": "sports",
+          "code": "/forums/?forumID=32"
+        },
+        {
+          "name": "tax",
+          "code": "/forums/?forumID=1040"
+        },
+        {
+          "name": "travel",
+          "code": "/forums/?forumID=42"
+        },
+        {
+          "name": "tv",
+          "code": "/forums/?forumID=98"
+        },
+        {
+          "name": "vegan",
+          "code": "/forums/?forumID=2400"
+        },
+        {
+          "name": "w4w",
+          "code": "/forums/?forumID=69"
+        },
+        {
+          "name": "wed",
+          "code": "/forums/?forumID=15"
+        },
+        {
+          "name": "wine",
+          "code": "/forums/?forumID=120"
+        },
+        {
+          "name": "women",
+          "code": "/forums/?forumID=94"
+        },
+        {
+          "name": "words",
+          "code": "/forums/?forumID=7000"
+        },
+        {
+          "name": "writing",
+          "code": "/forums/?forumID=27"
+        },
+        {
+          "name": "yoga",
+          "code": "/forums/?forumID=8620"
+        }
+      ]
+    },
+    {
+      "name": "housing",
+      "code": "hhh",
+      "sub_categories": [
+        {
+          "name": "apts / housing",
+          "code": "/search/apa"
+        },
+        {
+          "name": "housing swap",
+          "code": "/search/swp"
+        },
+        {
+          "name": "housing wanted",
+          "code": "/search/hsw"
+        },
+        {
+          "name": "office / commercial",
+          "code": "/search/off"
+        },
+        {
+          "name": "parking / storage",
+          "code": "/search/prk"
+        },
+        {
+          "name": "real estate for sale",
+          "code": "/search/rea"
+        },
+        {
+          "name": "rooms / shared",
+          "code": "/search/roo"
+        },
+        {
+          "name": "rooms wanted",
+          "code": "/search/sha"
+        },
+        {
+          "name": "sublets / temporary",
+          "code": "/search/sub"
+        },
+        {
+          "name": "vacation rentals",
+          "code": "/search/vac"
+        }
+      ]
+    },
+    {
+      "name": "for sale",
+      "code": "sss",
+      "sub_categories": [
+        {
+          "name": "antiques",
+          "code": "/search/ata"
+        },
+        {
+          "name": "appliances",
+          "code": "/search/ppa"
+        },
+        {
+          "name": "arts+crafts",
+          "code": "/search/ara"
+        },
+        {
+          "name": "atv/utv/sno",
+          "code": "/search/sna"
+        },
+        {
+          "name": "auto parts",
+          "code": "/search/pta"
+        },
+        {
+          "name": "baby+kid",
+          "code": "/search/baa"
+        },
+        {
+          "name": "barter",
+          "code": "/search/bar"
+        },
+        {
+          "name": "beauty+hlth",
+          "code": "/search/haa"
+        },
+        {
+          "name": "bikes",
+          "code": "/i/bikes"
+        },
+        {
+          "name": "boats",
+          "code": "/search/boo"
+        },
+        {
+          "name": "books",
+          "code": "/search/bka"
+        },
+        {
+          "name": "business",
+          "code": "/search/bfa"
+        },
+        {
+          "name": "cars+trucks",
+          "code": "/i/autos"
+        },
+        {
+          "name": "cds/dvd/vhs",
+          "code": "/search/ema"
+        },
+        {
+          "name": "cell phones",
+          "code": "/search/moa"
+        },
+        {
+          "name": "clothes+acc",
+          "code": "/search/cla"
+        },
+        {
+          "name": "collectibles",
+          "code": "/search/cba"
+        },
+        {
+          "name": "computers",
+          "code": "/i/computers"
+        },
+        {
+          "name": "electronics",
+          "code": "/search/ela"
+        },
+        {
+          "name": "farm+garden",
+          "code": "/search/gra"
+        },
+        {
+          "name": "free",
+          "code": "/search/zip"
+        },
+        {
+          "name": "furniture",
+          "code": "/search/fua"
+        },
+        {
+          "name": "garage sale",
+          "code": "/search/gms"
+        },
+        {
+          "name": "general",
+          "code": "/search/foa"
+        },
+        {
+          "name": "heavy equip",
+          "code": "/search/hva"
+        },
+        {
+          "name": "household",
+          "code": "/search/hsa"
+        },
+        {
+          "name": "jewelry",
+          "code": "/search/jwa"
+        },
+        {
+          "name": "materials",
+          "code": "/search/maa"
+        },
+        {
+          "name": "motorcycles",
+          "code": "/i/motorcycles"
+        },
+        {
+          "name": "music instr",
+          "code": "/search/msa"
+        },
+        {
+          "name": "photo+video",
+          "code": "/search/pha"
+        },
+        {
+          "name": "rvs+camp",
+          "code": "/search/rva"
+        },
+        {
+          "name": "sporting",
+          "code": "/search/sga"
+        },
+        {
+          "name": "tickets",
+          "code": "/search/tia"
+        },
+        {
+          "name": "tools",
+          "code": "/search/tla"
+        },
+        {
+          "name": "toys+games",
+          "code": "/search/taa"
+        },
+        {
+          "name": "video gaming",
+          "code": "/search/vga"
+        },
+        {
+          "name": "wanted",
+          "code": "/search/waa"
+        }
+      ]
+    },
+    {
+      "name": "services",
+      "code": "bbb",
+      "sub_categories": [
+        {
+          "name": "automotive",
+          "code": "/search/aos"
+        },
+        {
+          "name": "beauty",
+          "code": "/search/bts"
+        },
+        {
+          "name": "computer",
+          "code": "/search/cps"
+        },
+        {
+          "name": "creative",
+          "code": "/search/crs"
+        },
+        {
+          "name": "cycle",
+          "code": "/search/cys"
+        },
+        {
+          "name": "event",
+          "code": "/search/evs"
+        },
+        {
+          "name": "farm+garden",
+          "code": "/search/fgs"
+        },
+        {
+          "name": "financial",
+          "code": "/search/fns"
+        },
+        {
+          "name": "household",
+          "code": "/search/hss"
+        },
+        {
+          "name": "labor/move",
+          "code": "/search/lbs"
+        },
+        {
+          "name": "legal",
+          "code": "/search/lgs"
+        },
+        {
+          "name": "lessons",
+          "code": "/search/lss"
+        },
+        {
+          "name": "marine",
+          "code": "/search/mas"
+        },
+        {
+          "name": "pet",
+          "code": "/search/pas"
+        },
+        {
+          "name": "real estate",
+          "code": "/search/rts"
+        },
+        {
+          "name": "skill'd trade",
+          "code": "/search/sks"
+        },
+        {
+          "name": "sm biz ads",
+          "code": "/search/biz"
+        },
+        {
+          "name": "therapeutic",
+          "code": "/search/thp"
+        },
+        {
+          "name": "travel/vac",
+          "code": "/search/trv"
+        },
+        {
+          "name": "write/ed/tr8",
+          "code": "/search/wet"
+        }
+      ]
+    },
+    {
+      "name": "jobs",
+      "code": "jjj",
+      "sub_categories": [
+        {
+          "name": "accounting+finance",
+          "code": "/search/acc"
+        },
+        {
+          "name": "admin / office",
+          "code": "/search/ofc"
+        },
+        {
+          "name": "arch / engineering",
+          "code": "/search/egr"
+        },
+        {
+          "name": "art / media / design",
+          "code": "/search/med"
+        },
+        {
+          "name": "biotech / science",
+          "code": "/search/sci"
+        },
+        {
+          "name": "business / mgmt",
+          "code": "/search/bus"
+        },
+        {
+          "name": "customer service",
+          "code": "/search/csr"
+        },
+        {
+          "name": "education",
+          "code": "/search/edu"
+        },
+        {
+          "name": "food / bev / hosp",
+          "code": "/search/fbh"
+        },
+        {
+          "name": "general labor",
+          "code": "/search/lab"
+        },
+        {
+          "name": "government",
+          "code": "/search/gov"
+        },
+        {
+          "name": "human resources",
+          "code": "/search/hum"
+        },
+        {
+          "name": "internet engineers",
+          "code": "/search/eng"
+        },
+        {
+          "name": "legal  /  paralegal",
+          "code": "/search/lgl"
+        },
+        {
+          "name": "manufacturing",
+          "code": "/search/mnu"
+        },
+        {
+          "name": "marketing / pr / ad",
+          "code": "/search/mar"
+        },
+        {
+          "name": "medical / health",
+          "code": "/search/hea"
+        },
+        {
+          "name": "nonprofit sector",
+          "code": "/search/npo"
+        },
+        {
+          "name": "real estate",
+          "code": "/search/rej"
+        },
+        {
+          "name": "retail / wholesale",
+          "code": "/search/ret"
+        },
+        {
+          "name": "sales / biz dev",
+          "code": "/search/sls"
+        },
+        {
+          "name": "salon / spa / fitness",
+          "code": "/search/spa"
+        },
+        {
+          "name": "security",
+          "code": "/search/sec"
+        },
+        {
+          "name": "skilled trade / craft",
+          "code": "/search/trd"
+        },
+        {
+          "name": "software / qa / dba",
+          "code": "/search/sof"
+        },
+        {
+          "name": "systems / network",
+          "code": "/search/sad"
+        },
+        {
+          "name": "technical support",
+          "code": "/search/tch"
+        },
+        {
+          "name": "transport",
+          "code": "/search/trp"
+        },
+        {
+          "name": "tv / film / video",
+          "code": "/search/tfr"
+        },
+        {
+          "name": "web / info design",
+          "code": "/search/web"
+        },
+        {
+          "name": "writing / editing",
+          "code": "/search/wri"
+        },
+        {
+          "name": "[ETC]",
+          "code": "/search/etc"
+        },
+        {
+          "name": "[ part-time ]",
+          "code": "/search/jjj?is_parttime=1"
+        }
+      ]
+    },
+    {
+      "name": "gigs",
+      "code": "ggg",
+      "sub_categories": [
+        {
+          "name": "computer",
+          "code": "/search/cpg"
+        },
+        {
+          "name": "creative",
+          "code": "/search/crg"
+        },
+        {
+          "name": "crew",
+          "code": "/search/cwg"
+        },
+        {
+          "name": "domestic",
+          "code": "/search/dmg"
+        },
+        {
+          "name": "event",
+          "code": "/search/evg"
+        },
+        {
+          "name": "labor",
+          "code": "/search/lbg"
+        },
+        {
+          "name": "talent",
+          "code": "/search/tlg"
+        },
+        {
+          "name": "writing",
+          "code": "/search/wrg"
+        }
+      ]
+    }
+  ],
+  "locations": [
+    {
+      "name": "Alabama",
+      "sub_regions": [
+        {
+          "name": "auburn",
+          "region_name": "Alabama",
+          "url": "http://auburn.craigslist.org"
+        },
+        {
+          "name": "birmingham",
+          "region_name": "Alabama",
+          "url": "http://bham.craigslist.org"
+        },
+        {
+          "name": "dothan",
+          "region_name": "Alabama",
+          "url": "http://dothan.craigslist.org"
+        },
+        {
+          "name": "florence / muscle shoals",
+          "region_name": "Alabama",
+          "url": "http://shoals.craigslist.org"
+        },
+        {
+          "name": "gadsden-anniston",
+          "region_name": "Alabama",
+          "url": "http://gadsden.craigslist.org"
+        },
+        {
+          "name": "huntsville / decatur",
+          "region_name": "Alabama",
+          "url": "http://huntsville.craigslist.org"
+        },
+        {
+          "name": "mobile",
+          "region_name": "Alabama",
+          "url": "http://mobile.craigslist.org"
+        },
+        {
+          "name": "montgomery",
+          "region_name": "Alabama",
+          "url": "http://montgomery.craigslist.org"
+        },
+        {
+          "name": "tuscaloosa",
+          "region_name": "Alabama",
+          "url": "http://tuscaloosa.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Alaska",
+      "sub_regions": [
+        {
+          "name": "anchorage / mat-su",
+          "region_name": "Alaska",
+          "url": "http://anchorage.craigslist.org"
+        },
+        {
+          "name": "fairbanks",
+          "region_name": "Alaska",
+          "url": "http://fairbanks.craigslist.org"
+        },
+        {
+          "name": "kenai peninsula",
+          "region_name": "Alaska",
+          "url": "http://kenai.craigslist.org"
+        },
+        {
+          "name": "southeast alaska",
+          "region_name": "Alaska",
+          "url": "http://juneau.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Arizona",
+      "sub_regions": [
+        {
+          "name": "flagstaff / sedona",
+          "region_name": "Arizona",
+          "url": "http://flagstaff.craigslist.org"
+        },
+        {
+          "name": "mohave county",
+          "region_name": "Arizona",
+          "url": "http://mohave.craigslist.org"
+        },
+        {
+          "name": "phoenix",
+          "region_name": "Arizona",
+          "url": "http://phoenix.craigslist.org"
+        },
+        {
+          "name": "prescott",
+          "region_name": "Arizona",
+          "url": "http://prescott.craigslist.org"
+        },
+        {
+          "name": "show low",
+          "region_name": "Arizona",
+          "url": "http://showlow.craigslist.org"
+        },
+        {
+          "name": "sierra vista",
+          "region_name": "Arizona",
+          "url": "http://sierravista.craigslist.org"
+        },
+        {
+          "name": "tucson",
+          "region_name": "Arizona",
+          "url": "http://tucson.craigslist.org"
+        },
+        {
+          "name": "yuma",
+          "region_name": "Arizona",
+          "url": "http://yuma.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Arkansas",
+      "sub_regions": [
+        {
+          "name": "fayetteville ",
+          "region_name": "Arkansas",
+          "url": "http://fayar.craigslist.org"
+        },
+        {
+          "name": "fort smith",
+          "region_name": "Arkansas",
+          "url": "http://fortsmith.craigslist.org"
+        },
+        {
+          "name": "jonesboro",
+          "region_name": "Arkansas",
+          "url": "http://jonesboro.craigslist.org"
+        },
+        {
+          "name": "little rock",
+          "region_name": "Arkansas",
+          "url": "http://littlerock.craigslist.org"
+        },
+        {
+          "name": "texarkana",
+          "region_name": "Arkansas",
+          "url": "http://texarkana.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "California",
+      "sub_regions": [
+        {
+          "name": "bakersfield",
+          "region_name": "California",
+          "url": "http://bakersfield.craigslist.org"
+        },
+        {
+          "name": "chico",
+          "region_name": "California",
+          "url": "http://chico.craigslist.org"
+        },
+        {
+          "name": "fresno / madera",
+          "region_name": "California",
+          "url": "http://fresno.craigslist.org"
+        },
+        {
+          "name": "gold country",
+          "region_name": "California",
+          "url": "http://goldcountry.craigslist.org"
+        },
+        {
+          "name": "hanford-corcoran",
+          "region_name": "California",
+          "url": "http://hanford.craigslist.org"
+        },
+        {
+          "name": "humboldt county",
+          "region_name": "California",
+          "url": "http://humboldt.craigslist.org"
+        },
+        {
+          "name": "imperial county",
+          "region_name": "California",
+          "url": "http://imperial.craigslist.org"
+        },
+        {
+          "name": "inland empire",
+          "region_name": "California",
+          "url": "http://inlandempire.craigslist.org"
+        },
+        {
+          "name": "los angeles",
+          "region_name": "California",
+          "url": "http://losangeles.craigslist.org"
+        },
+        {
+          "name": "mendocino county",
+          "region_name": "California",
+          "url": "http://mendocino.craigslist.org"
+        },
+        {
+          "name": "merced",
+          "region_name": "California",
+          "url": "http://merced.craigslist.org"
+        },
+        {
+          "name": "modesto",
+          "region_name": "California",
+          "url": "http://modesto.craigslist.org"
+        },
+        {
+          "name": "monterey bay",
+          "region_name": "California",
+          "url": "http://monterey.craigslist.org"
+        },
+        {
+          "name": "orange county",
+          "region_name": "California",
+          "url": "http://orangecounty.craigslist.org"
+        },
+        {
+          "name": "palm springs",
+          "region_name": "California",
+          "url": "http://palmsprings.craigslist.org"
+        },
+        {
+          "name": "redding",
+          "region_name": "California",
+          "url": "http://redding.craigslist.org"
+        },
+        {
+          "name": "sacramento",
+          "region_name": "California",
+          "url": "http://sacramento.craigslist.org"
+        },
+        {
+          "name": "san diego",
+          "region_name": "California",
+          "url": "http://sandiego.craigslist.org"
+        },
+        {
+          "name": "san francisco bay area",
+          "region_name": "California",
+          "url": "http://sfbay.craigslist.org"
+        },
+        {
+          "name": "san luis obispo",
+          "region_name": "California",
+          "url": "http://slo.craigslist.org"
+        },
+        {
+          "name": "santa barbara",
+          "region_name": "California",
+          "url": "http://santabarbara.craigslist.org"
+        },
+        {
+          "name": "santa maria",
+          "region_name": "California",
+          "url": "http://santamaria.craigslist.org"
+        },
+        {
+          "name": "siskiyou county",
+          "region_name": "California",
+          "url": "http://siskiyou.craigslist.org"
+        },
+        {
+          "name": "stockton",
+          "region_name": "California",
+          "url": "http://stockton.craigslist.org"
+        },
+        {
+          "name": "susanville",
+          "region_name": "California",
+          "url": "http://susanville.craigslist.org"
+        },
+        {
+          "name": "ventura county",
+          "region_name": "California",
+          "url": "http://ventura.craigslist.org"
+        },
+        {
+          "name": "visalia-tulare",
+          "region_name": "California",
+          "url": "http://visalia.craigslist.org"
+        },
+        {
+          "name": "yuba-sutter",
+          "region_name": "California",
+          "url": "http://yubasutter.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Colorado",
+      "sub_regions": [
+        {
+          "name": "boulder",
+          "region_name": "Colorado",
+          "url": "http://boulder.craigslist.org"
+        },
+        {
+          "name": "colorado springs",
+          "region_name": "Colorado",
+          "url": "http://cosprings.craigslist.org"
+        },
+        {
+          "name": "denver",
+          "region_name": "Colorado",
+          "url": "http://denver.craigslist.org"
+        },
+        {
+          "name": "eastern CO",
+          "region_name": "Colorado",
+          "url": "http://eastco.craigslist.org"
+        },
+        {
+          "name": "fort collins / north CO",
+          "region_name": "Colorado",
+          "url": "http://fortcollins.craigslist.org"
+        },
+        {
+          "name": "high rockies",
+          "region_name": "Colorado",
+          "url": "http://rockies.craigslist.org"
+        },
+        {
+          "name": "pueblo",
+          "region_name": "Colorado",
+          "url": "http://pueblo.craigslist.org"
+        },
+        {
+          "name": "western slope",
+          "region_name": "Colorado",
+          "url": "http://westslope.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Connecticut",
+      "sub_regions": [
+        {
+          "name": "eastern CT",
+          "region_name": "Connecticut",
+          "url": "http://newlondon.craigslist.org"
+        },
+        {
+          "name": "hartford",
+          "region_name": "Connecticut",
+          "url": "http://hartford.craigslist.org"
+        },
+        {
+          "name": "new haven",
+          "region_name": "Connecticut",
+          "url": "http://newhaven.craigslist.org"
+        },
+        {
+          "name": "northwest CT",
+          "region_name": "Connecticut",
+          "url": "http://nwct.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Delaware",
+      "sub_regions": [
+        {
+          "name": "delaware",
+          "region_name": "Delaware",
+          "url": "http://delaware.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "District of Columbia",
+      "sub_regions": [
+        {
+          "name": "washington",
+          "region_name": "District of Columbia",
+          "url": "http://washingtondc.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Florida",
+      "sub_regions": [
+        {
+          "name": "daytona beach",
+          "region_name": "Florida",
+          "url": "http://daytona.craigslist.org"
+        },
+        {
+          "name": "florida keys",
+          "region_name": "Florida",
+          "url": "http://keys.craigslist.org"
+        },
+        {
+          "name": "fort lauderdale",
+          "region_name": "Florida",
+          "url": "http://fortlauderdale.craigslist.org"
+        },
+        {
+          "name": "ft myers / SW florida",
+          "region_name": "Florida",
+          "url": "http://fortmyers.craigslist.org"
+        },
+        {
+          "name": "gainesville",
+          "region_name": "Florida",
+          "url": "http://gainesville.craigslist.org"
+        },
+        {
+          "name": "heartland florida",
+          "region_name": "Florida",
+          "url": "http://cfl.craigslist.org"
+        },
+        {
+          "name": "jacksonville",
+          "region_name": "Florida",
+          "url": "http://jacksonville.craigslist.org"
+        },
+        {
+          "name": "lakeland",
+          "region_name": "Florida",
+          "url": "http://lakeland.craigslist.org"
+        },
+        {
+          "name": "north central FL",
+          "region_name": "Florida",
+          "url": "http://lakecity.craigslist.org"
+        },
+        {
+          "name": "ocala",
+          "region_name": "Florida",
+          "url": "http://ocala.craigslist.org"
+        },
+        {
+          "name": "okaloosa / walton",
+          "region_name": "Florida",
+          "url": "http://okaloosa.craigslist.org"
+        },
+        {
+          "name": "orlando",
+          "region_name": "Florida",
+          "url": "http://orlando.craigslist.org"
+        },
+        {
+          "name": "panama city",
+          "region_name": "Florida",
+          "url": "http://panamacity.craigslist.org"
+        },
+        {
+          "name": "pensacola",
+          "region_name": "Florida",
+          "url": "http://pensacola.craigslist.org"
+        },
+        {
+          "name": "sarasota-bradenton",
+          "region_name": "Florida",
+          "url": "http://sarasota.craigslist.org"
+        },
+        {
+          "name": "south florida",
+          "region_name": "Florida",
+          "url": "http://miami.craigslist.org"
+        },
+        {
+          "name": "space coast",
+          "region_name": "Florida",
+          "url": "http://spacecoast.craigslist.org"
+        },
+        {
+          "name": "st augustine",
+          "region_name": "Florida",
+          "url": "http://staugustine.craigslist.org"
+        },
+        {
+          "name": "tallahassee",
+          "region_name": "Florida",
+          "url": "http://tallahassee.craigslist.org"
+        },
+        {
+          "name": "tampa bay area",
+          "region_name": "Florida",
+          "url": "http://tampa.craigslist.org"
+        },
+        {
+          "name": "treasure coast",
+          "region_name": "Florida",
+          "url": "http://treasure.craigslist.org"
+        },
+        {
+          "name": "west palm beach",
+          "region_name": "Florida",
+          "url": "http://westpalmbeach.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Georgia",
+      "sub_regions": [
+        {
+          "name": "albany ",
+          "region_name": "Georgia",
+          "url": "http://albanyga.craigslist.org"
+        },
+        {
+          "name": "athens",
+          "region_name": "Georgia",
+          "url": "http://athensga.craigslist.org"
+        },
+        {
+          "name": "atlanta",
+          "region_name": "Georgia",
+          "url": "http://atlanta.craigslist.org"
+        },
+        {
+          "name": "augusta",
+          "region_name": "Georgia",
+          "url": "http://augusta.craigslist.org"
+        },
+        {
+          "name": "brunswick",
+          "region_name": "Georgia",
+          "url": "http://brunswick.craigslist.org"
+        },
+        {
+          "name": "columbus ",
+          "region_name": "Georgia",
+          "url": "http://columbusga.craigslist.org"
+        },
+        {
+          "name": "macon / warner robins",
+          "region_name": "Georgia",
+          "url": "http://macon.craigslist.org"
+        },
+        {
+          "name": "northwest GA",
+          "region_name": "Georgia",
+          "url": "http://nwga.craigslist.org"
+        },
+        {
+          "name": "savannah / hinesville",
+          "region_name": "Georgia",
+          "url": "http://savannah.craigslist.org"
+        },
+        {
+          "name": "statesboro",
+          "region_name": "Georgia",
+          "url": "http://statesboro.craigslist.org"
+        },
+        {
+          "name": "valdosta",
+          "region_name": "Georgia",
+          "url": "http://valdosta.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "sub_regions": [
+        {
+          "name": "hawaii",
+          "region_name": "Hawaii",
+          "url": "http://honolulu.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Idaho",
+      "sub_regions": [
+        {
+          "name": "boise",
+          "region_name": "Idaho",
+          "url": "http://boise.craigslist.org"
+        },
+        {
+          "name": "east idaho",
+          "region_name": "Idaho",
+          "url": "http://eastidaho.craigslist.org"
+        },
+        {
+          "name": "lewiston / clarkston",
+          "region_name": "Idaho",
+          "url": "http://lewiston.craigslist.org"
+        },
+        {
+          "name": "twin falls",
+          "region_name": "Idaho",
+          "url": "http://twinfalls.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Illinois",
+      "sub_regions": [
+        {
+          "name": "bloomington-normal",
+          "region_name": "Illinois",
+          "url": "http://bn.craigslist.org"
+        },
+        {
+          "name": "champaign urbana",
+          "region_name": "Illinois",
+          "url": "http://chambana.craigslist.org"
+        },
+        {
+          "name": "chicago",
+          "region_name": "Illinois",
+          "url": "http://chicago.craigslist.org"
+        },
+        {
+          "name": "decatur",
+          "region_name": "Illinois",
+          "url": "http://decatur.craigslist.org"
+        },
+        {
+          "name": "la salle co",
+          "region_name": "Illinois",
+          "url": "http://lasalle.craigslist.org"
+        },
+        {
+          "name": "mattoon-charleston",
+          "region_name": "Illinois",
+          "url": "http://mattoon.craigslist.org"
+        },
+        {
+          "name": "peoria",
+          "region_name": "Illinois",
+          "url": "http://peoria.craigslist.org"
+        },
+        {
+          "name": "rockford",
+          "region_name": "Illinois",
+          "url": "http://rockford.craigslist.org"
+        },
+        {
+          "name": "southern illinois",
+          "region_name": "Illinois",
+          "url": "http://carbondale.craigslist.org"
+        },
+        {
+          "name": "springfield ",
+          "region_name": "Illinois",
+          "url": "http://springfieldil.craigslist.org"
+        },
+        {
+          "name": "western IL",
+          "region_name": "Illinois",
+          "url": "http://quincy.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Indiana",
+      "sub_regions": [
+        {
+          "name": "bloomington",
+          "region_name": "Indiana",
+          "url": "http://bloomington.craigslist.org"
+        },
+        {
+          "name": "evansville",
+          "region_name": "Indiana",
+          "url": "http://evansville.craigslist.org"
+        },
+        {
+          "name": "fort wayne",
+          "region_name": "Indiana",
+          "url": "http://fortwayne.craigslist.org"
+        },
+        {
+          "name": "indianapolis",
+          "region_name": "Indiana",
+          "url": "http://indianapolis.craigslist.org"
+        },
+        {
+          "name": "kokomo",
+          "region_name": "Indiana",
+          "url": "http://kokomo.craigslist.org"
+        },
+        {
+          "name": "lafayette / west lafayette",
+          "region_name": "Indiana",
+          "url": "http://tippecanoe.craigslist.org"
+        },
+        {
+          "name": "muncie / anderson",
+          "region_name": "Indiana",
+          "url": "http://muncie.craigslist.org"
+        },
+        {
+          "name": "richmond ",
+          "region_name": "Indiana",
+          "url": "http://richmondin.craigslist.org"
+        },
+        {
+          "name": "south bend / michiana",
+          "region_name": "Indiana",
+          "url": "http://southbend.craigslist.org"
+        },
+        {
+          "name": "terre haute",
+          "region_name": "Indiana",
+          "url": "http://terrehaute.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Iowa",
+      "sub_regions": [
+        {
+          "name": "ames",
+          "region_name": "Iowa",
+          "url": "http://ames.craigslist.org"
+        },
+        {
+          "name": "cedar rapids",
+          "region_name": "Iowa",
+          "url": "http://cedarrapids.craigslist.org"
+        },
+        {
+          "name": "des moines",
+          "region_name": "Iowa",
+          "url": "http://desmoines.craigslist.org"
+        },
+        {
+          "name": "dubuque",
+          "region_name": "Iowa",
+          "url": "http://dubuque.craigslist.org"
+        },
+        {
+          "name": "fort dodge",
+          "region_name": "Iowa",
+          "url": "http://fortdodge.craigslist.org"
+        },
+        {
+          "name": "iowa city",
+          "region_name": "Iowa",
+          "url": "http://iowacity.craigslist.org"
+        },
+        {
+          "name": "mason city",
+          "region_name": "Iowa",
+          "url": "http://masoncity.craigslist.org"
+        },
+        {
+          "name": "quad cities",
+          "region_name": "Iowa",
+          "url": "http://quadcities.craigslist.org"
+        },
+        {
+          "name": "sioux city",
+          "region_name": "Iowa",
+          "url": "http://siouxcity.craigslist.org"
+        },
+        {
+          "name": "southeast IA",
+          "region_name": "Iowa",
+          "url": "http://ottumwa.craigslist.org"
+        },
+        {
+          "name": "waterloo / cedar falls",
+          "region_name": "Iowa",
+          "url": "http://waterloo.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Kansas",
+      "sub_regions": [
+        {
+          "name": "lawrence",
+          "region_name": "Kansas",
+          "url": "http://lawrence.craigslist.org"
+        },
+        {
+          "name": "manhattan",
+          "region_name": "Kansas",
+          "url": "http://ksu.craigslist.org"
+        },
+        {
+          "name": "northwest KS",
+          "region_name": "Kansas",
+          "url": "http://nwks.craigslist.org"
+        },
+        {
+          "name": "salina",
+          "region_name": "Kansas",
+          "url": "http://salina.craigslist.org"
+        },
+        {
+          "name": "southeast KS",
+          "region_name": "Kansas",
+          "url": "http://seks.craigslist.org"
+        },
+        {
+          "name": "southwest KS",
+          "region_name": "Kansas",
+          "url": "http://swks.craigslist.org"
+        },
+        {
+          "name": "topeka",
+          "region_name": "Kansas",
+          "url": "http://topeka.craigslist.org"
+        },
+        {
+          "name": "wichita",
+          "region_name": "Kansas",
+          "url": "http://wichita.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Kentucky",
+      "sub_regions": [
+        {
+          "name": "bowling green",
+          "region_name": "Kentucky",
+          "url": "http://bgky.craigslist.org"
+        },
+        {
+          "name": "eastern kentucky",
+          "region_name": "Kentucky",
+          "url": "http://eastky.craigslist.org"
+        },
+        {
+          "name": "lexington",
+          "region_name": "Kentucky",
+          "url": "http://lexington.craigslist.org"
+        },
+        {
+          "name": "louisville",
+          "region_name": "Kentucky",
+          "url": "http://louisville.craigslist.org"
+        },
+        {
+          "name": "owensboro",
+          "region_name": "Kentucky",
+          "url": "http://owensboro.craigslist.org"
+        },
+        {
+          "name": "western KY",
+          "region_name": "Kentucky",
+          "url": "http://westky.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Louisiana",
+      "sub_regions": [
+        {
+          "name": "baton rouge",
+          "region_name": "Louisiana",
+          "url": "http://batonrouge.craigslist.org"
+        },
+        {
+          "name": "central louisiana",
+          "region_name": "Louisiana",
+          "url": "http://cenla.craigslist.org"
+        },
+        {
+          "name": "houma",
+          "region_name": "Louisiana",
+          "url": "http://houma.craigslist.org"
+        },
+        {
+          "name": "lafayette",
+          "region_name": "Louisiana",
+          "url": "http://lafayette.craigslist.org"
+        },
+        {
+          "name": "lake charles",
+          "region_name": "Louisiana",
+          "url": "http://lakecharles.craigslist.org"
+        },
+        {
+          "name": "monroe",
+          "region_name": "Louisiana",
+          "url": "http://monroe.craigslist.org"
+        },
+        {
+          "name": "new orleans",
+          "region_name": "Louisiana",
+          "url": "http://neworleans.craigslist.org"
+        },
+        {
+          "name": "shreveport",
+          "region_name": "Louisiana",
+          "url": "http://shreveport.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Maine",
+      "sub_regions": [
+        {
+          "name": "maine",
+          "region_name": "Maine",
+          "url": "http://maine.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Maryland",
+      "sub_regions": [
+        {
+          "name": "annapolis",
+          "region_name": "Maryland",
+          "url": "http://annapolis.craigslist.org"
+        },
+        {
+          "name": "baltimore",
+          "region_name": "Maryland",
+          "url": "http://baltimore.craigslist.org"
+        },
+        {
+          "name": "eastern shore",
+          "region_name": "Maryland",
+          "url": "http://easternshore.craigslist.org"
+        },
+        {
+          "name": "frederick",
+          "region_name": "Maryland",
+          "url": "http://frederick.craigslist.org"
+        },
+        {
+          "name": "southern maryland",
+          "region_name": "Maryland",
+          "url": "http://smd.craigslist.org"
+        },
+        {
+          "name": "western maryland",
+          "region_name": "Maryland",
+          "url": "http://westmd.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Massachusetts",
+      "sub_regions": [
+        {
+          "name": "boston",
+          "region_name": "Massachusetts",
+          "url": "http://boston.craigslist.org"
+        },
+        {
+          "name": "cape cod / islands",
+          "region_name": "Massachusetts",
+          "url": "http://capecod.craigslist.org"
+        },
+        {
+          "name": "south coast",
+          "region_name": "Massachusetts",
+          "url": "http://southcoast.craigslist.org"
+        },
+        {
+          "name": "western massachusetts",
+          "region_name": "Massachusetts",
+          "url": "http://westernmass.craigslist.org"
+        },
+        {
+          "name": "worcester / central MA",
+          "region_name": "Massachusetts",
+          "url": "http://worcester.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Michigan",
+      "sub_regions": [
+        {
+          "name": "ann arbor",
+          "region_name": "Michigan",
+          "url": "http://annarbor.craigslist.org"
+        },
+        {
+          "name": "battle creek",
+          "region_name": "Michigan",
+          "url": "http://battlecreek.craigslist.org"
+        },
+        {
+          "name": "central michigan",
+          "region_name": "Michigan",
+          "url": "http://centralmich.craigslist.org"
+        },
+        {
+          "name": "detroit metro",
+          "region_name": "Michigan",
+          "url": "http://detroit.craigslist.org"
+        },
+        {
+          "name": "flint",
+          "region_name": "Michigan",
+          "url": "http://flint.craigslist.org"
+        },
+        {
+          "name": "grand rapids",
+          "region_name": "Michigan",
+          "url": "http://grandrapids.craigslist.org"
+        },
+        {
+          "name": "holland",
+          "region_name": "Michigan",
+          "url": "http://holland.craigslist.org"
+        },
+        {
+          "name": "jackson ",
+          "region_name": "Michigan",
+          "url": "http://jxn.craigslist.org"
+        },
+        {
+          "name": "kalamazoo",
+          "region_name": "Michigan",
+          "url": "http://kalamazoo.craigslist.org"
+        },
+        {
+          "name": "lansing",
+          "region_name": "Michigan",
+          "url": "http://lansing.craigslist.org"
+        },
+        {
+          "name": "monroe ",
+          "region_name": "Michigan",
+          "url": "http://monroemi.craigslist.org"
+        },
+        {
+          "name": "muskegon",
+          "region_name": "Michigan",
+          "url": "http://muskegon.craigslist.org"
+        },
+        {
+          "name": "northern michigan",
+          "region_name": "Michigan",
+          "url": "http://nmi.craigslist.org"
+        },
+        {
+          "name": "port huron",
+          "region_name": "Michigan",
+          "url": "http://porthuron.craigslist.org"
+        },
+        {
+          "name": "saginaw-midland-baycity",
+          "region_name": "Michigan",
+          "url": "http://saginaw.craigslist.org"
+        },
+        {
+          "name": "southwest michigan",
+          "region_name": "Michigan",
+          "url": "http://swmi.craigslist.org"
+        },
+        {
+          "name": "the thumb",
+          "region_name": "Michigan",
+          "url": "http://thumb.craigslist.org"
+        },
+        {
+          "name": "upper peninsula",
+          "region_name": "Michigan",
+          "url": "http://up.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Minnesota",
+      "sub_regions": [
+        {
+          "name": "bemidji",
+          "region_name": "Minnesota",
+          "url": "http://bemidji.craigslist.org"
+        },
+        {
+          "name": "brainerd",
+          "region_name": "Minnesota",
+          "url": "http://brainerd.craigslist.org"
+        },
+        {
+          "name": "duluth / superior",
+          "region_name": "Minnesota",
+          "url": "http://duluth.craigslist.org"
+        },
+        {
+          "name": "mankato",
+          "region_name": "Minnesota",
+          "url": "http://mankato.craigslist.org"
+        },
+        {
+          "name": "minneapolis / st paul",
+          "region_name": "Minnesota",
+          "url": "http://minneapolis.craigslist.org"
+        },
+        {
+          "name": "rochester ",
+          "region_name": "Minnesota",
+          "url": "http://rmn.craigslist.org"
+        },
+        {
+          "name": "southwest MN",
+          "region_name": "Minnesota",
+          "url": "http://marshall.craigslist.org"
+        },
+        {
+          "name": "st cloud",
+          "region_name": "Minnesota",
+          "url": "http://stcloud.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Mississippi",
+      "sub_regions": [
+        {
+          "name": "gulfport / biloxi",
+          "region_name": "Mississippi",
+          "url": "http://gulfport.craigslist.org"
+        },
+        {
+          "name": "hattiesburg",
+          "region_name": "Mississippi",
+          "url": "http://hattiesburg.craigslist.org"
+        },
+        {
+          "name": "jackson",
+          "region_name": "Mississippi",
+          "url": "http://jackson.craigslist.org"
+        },
+        {
+          "name": "meridian",
+          "region_name": "Mississippi",
+          "url": "http://meridian.craigslist.org"
+        },
+        {
+          "name": "north mississippi",
+          "region_name": "Mississippi",
+          "url": "http://northmiss.craigslist.org"
+        },
+        {
+          "name": "southwest MS",
+          "region_name": "Mississippi",
+          "url": "http://natchez.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Missouri",
+      "sub_regions": [
+        {
+          "name": "columbia / jeff city",
+          "region_name": "Missouri",
+          "url": "http://columbiamo.craigslist.org"
+        },
+        {
+          "name": "joplin",
+          "region_name": "Missouri",
+          "url": "http://joplin.craigslist.org"
+        },
+        {
+          "name": "kansas city",
+          "region_name": "Missouri",
+          "url": "http://kansascity.craigslist.org"
+        },
+        {
+          "name": "kirksville",
+          "region_name": "Missouri",
+          "url": "http://kirksville.craigslist.org"
+        },
+        {
+          "name": "lake of the ozarks",
+          "region_name": "Missouri",
+          "url": "http://loz.craigslist.org"
+        },
+        {
+          "name": "southeast missouri",
+          "region_name": "Missouri",
+          "url": "http://semo.craigslist.org"
+        },
+        {
+          "name": "springfield",
+          "region_name": "Missouri",
+          "url": "http://springfield.craigslist.org"
+        },
+        {
+          "name": "st joseph",
+          "region_name": "Missouri",
+          "url": "http://stjoseph.craigslist.org"
+        },
+        {
+          "name": "st louis",
+          "region_name": "Missouri",
+          "url": "http://stlouis.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Montana",
+      "sub_regions": [
+        {
+          "name": "billings",
+          "region_name": "Montana",
+          "url": "http://billings.craigslist.org"
+        },
+        {
+          "name": "bozeman",
+          "region_name": "Montana",
+          "url": "http://bozeman.craigslist.org"
+        },
+        {
+          "name": "butte",
+          "region_name": "Montana",
+          "url": "http://butte.craigslist.org"
+        },
+        {
+          "name": "great falls",
+          "region_name": "Montana",
+          "url": "http://greatfalls.craigslist.org"
+        },
+        {
+          "name": "helena",
+          "region_name": "Montana",
+          "url": "http://helena.craigslist.org"
+        },
+        {
+          "name": "kalispell",
+          "region_name": "Montana",
+          "url": "http://kalispell.craigslist.org"
+        },
+        {
+          "name": "missoula",
+          "region_name": "Montana",
+          "url": "http://missoula.craigslist.org"
+        },
+        {
+          "name": "eastern montana",
+          "region_name": "Montana",
+          "url": "http://montana.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Nebraska",
+      "sub_regions": [
+        {
+          "name": "grand island",
+          "region_name": "Nebraska",
+          "url": "http://grandisland.craigslist.org"
+        },
+        {
+          "name": "lincoln",
+          "region_name": "Nebraska",
+          "url": "http://lincoln.craigslist.org"
+        },
+        {
+          "name": "north platte",
+          "region_name": "Nebraska",
+          "url": "http://northplatte.craigslist.org"
+        },
+        {
+          "name": "omaha / council bluffs",
+          "region_name": "Nebraska",
+          "url": "http://omaha.craigslist.org"
+        },
+        {
+          "name": "scottsbluff / panhandle",
+          "region_name": "Nebraska",
+          "url": "http://scottsbluff.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Nevada",
+      "sub_regions": [
+        {
+          "name": "elko",
+          "region_name": "Nevada",
+          "url": "http://elko.craigslist.org"
+        },
+        {
+          "name": "las vegas",
+          "region_name": "Nevada",
+          "url": "http://lasvegas.craigslist.org"
+        },
+        {
+          "name": "reno / tahoe",
+          "region_name": "Nevada",
+          "url": "http://reno.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "New Hampshire",
+      "sub_regions": [
+        {
+          "name": "new hampshire",
+          "region_name": "New Hampshire",
+          "url": "http://nh.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "New Jersey",
+      "sub_regions": [
+        {
+          "name": "central NJ",
+          "region_name": "New Jersey",
+          "url": "http://cnj.craigslist.org"
+        },
+        {
+          "name": "jersey shore",
+          "region_name": "New Jersey",
+          "url": "http://jerseyshore.craigslist.org"
+        },
+        {
+          "name": "north jersey",
+          "region_name": "New Jersey",
+          "url": "http://newjersey.craigslist.org"
+        },
+        {
+          "name": "south jersey",
+          "region_name": "New Jersey",
+          "url": "http://southjersey.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "New Mexico",
+      "sub_regions": [
+        {
+          "name": "albuquerque",
+          "region_name": "New Mexico",
+          "url": "http://albuquerque.craigslist.org"
+        },
+        {
+          "name": "clovis / portales",
+          "region_name": "New Mexico",
+          "url": "http://clovis.craigslist.org"
+        },
+        {
+          "name": "farmington",
+          "region_name": "New Mexico",
+          "url": "http://farmington.craigslist.org"
+        },
+        {
+          "name": "las cruces",
+          "region_name": "New Mexico",
+          "url": "http://lascruces.craigslist.org"
+        },
+        {
+          "name": "roswell / carlsbad",
+          "region_name": "New Mexico",
+          "url": "http://roswell.craigslist.org"
+        },
+        {
+          "name": "santa fe / taos",
+          "region_name": "New Mexico",
+          "url": "http://santafe.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "New York",
+      "sub_regions": [
+        {
+          "name": "albany",
+          "region_name": "New York",
+          "url": "http://albany.craigslist.org"
+        },
+        {
+          "name": "binghamton",
+          "region_name": "New York",
+          "url": "http://binghamton.craigslist.org"
+        },
+        {
+          "name": "buffalo",
+          "region_name": "New York",
+          "url": "http://buffalo.craigslist.org"
+        },
+        {
+          "name": "catskills",
+          "region_name": "New York",
+          "url": "http://catskills.craigslist.org"
+        },
+        {
+          "name": "chautauqua",
+          "region_name": "New York",
+          "url": "http://chautauqua.craigslist.org"
+        },
+        {
+          "name": "elmira-corning",
+          "region_name": "New York",
+          "url": "http://elmira.craigslist.org"
+        },
+        {
+          "name": "finger lakes",
+          "region_name": "New York",
+          "url": "http://fingerlakes.craigslist.org"
+        },
+        {
+          "name": "glens falls",
+          "region_name": "New York",
+          "url": "http://glensfalls.craigslist.org"
+        },
+        {
+          "name": "hudson valley",
+          "region_name": "New York",
+          "url": "http://hudsonvalley.craigslist.org"
+        },
+        {
+          "name": "ithaca",
+          "region_name": "New York",
+          "url": "http://ithaca.craigslist.org"
+        },
+        {
+          "name": "long island",
+          "region_name": "New York",
+          "url": "http://longisland.craigslist.org"
+        },
+        {
+          "name": "new york city",
+          "region_name": "New York",
+          "url": "http://newyork.craigslist.org"
+        },
+        {
+          "name": "oneonta",
+          "region_name": "New York",
+          "url": "http://oneonta.craigslist.org"
+        },
+        {
+          "name": "plattsburgh-adirondacks",
+          "region_name": "New York",
+          "url": "http://plattsburgh.craigslist.org"
+        },
+        {
+          "name": "potsdam-canton-massena",
+          "region_name": "New York",
+          "url": "http://potsdam.craigslist.org"
+        },
+        {
+          "name": "rochester",
+          "region_name": "New York",
+          "url": "http://rochester.craigslist.org"
+        },
+        {
+          "name": "syracuse",
+          "region_name": "New York",
+          "url": "http://syracuse.craigslist.org"
+        },
+        {
+          "name": "twin tiers NY/PA",
+          "region_name": "New York",
+          "url": "http://twintiers.craigslist.org"
+        },
+        {
+          "name": "utica-rome-oneida",
+          "region_name": "New York",
+          "url": "http://utica.craigslist.org"
+        },
+        {
+          "name": "watertown",
+          "region_name": "New York",
+          "url": "http://watertown.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "North Carolina",
+      "sub_regions": [
+        {
+          "name": "asheville",
+          "region_name": "North Carolina",
+          "url": "http://asheville.craigslist.org"
+        },
+        {
+          "name": "boone",
+          "region_name": "North Carolina",
+          "url": "http://boone.craigslist.org"
+        },
+        {
+          "name": "charlotte",
+          "region_name": "North Carolina",
+          "url": "http://charlotte.craigslist.org"
+        },
+        {
+          "name": "eastern NC",
+          "region_name": "North Carolina",
+          "url": "http://eastnc.craigslist.org"
+        },
+        {
+          "name": "fayetteville",
+          "region_name": "North Carolina",
+          "url": "http://fayetteville.craigslist.org"
+        },
+        {
+          "name": "greensboro",
+          "region_name": "North Carolina",
+          "url": "http://greensboro.craigslist.org"
+        },
+        {
+          "name": "hickory / lenoir",
+          "region_name": "North Carolina",
+          "url": "http://hickory.craigslist.org"
+        },
+        {
+          "name": "jacksonville ",
+          "region_name": "North Carolina",
+          "url": "http://onslow.craigslist.org"
+        },
+        {
+          "name": "outer banks",
+          "region_name": "North Carolina",
+          "url": "http://outerbanks.craigslist.org"
+        },
+        {
+          "name": "raleigh / durham / CH",
+          "region_name": "North Carolina",
+          "url": "http://raleigh.craigslist.org"
+        },
+        {
+          "name": "wilmington",
+          "region_name": "North Carolina",
+          "url": "http://wilmington.craigslist.org"
+        },
+        {
+          "name": "winston-salem",
+          "region_name": "North Carolina",
+          "url": "http://winstonsalem.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "North Dakota",
+      "sub_regions": [
+        {
+          "name": "bismarck",
+          "region_name": "North Dakota",
+          "url": "http://bismarck.craigslist.org"
+        },
+        {
+          "name": "fargo / moorhead",
+          "region_name": "North Dakota",
+          "url": "http://fargo.craigslist.org"
+        },
+        {
+          "name": "grand forks",
+          "region_name": "North Dakota",
+          "url": "http://grandforks.craigslist.org"
+        },
+        {
+          "name": "north dakota",
+          "region_name": "North Dakota",
+          "url": "http://nd.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Ohio",
+      "sub_regions": [
+        {
+          "name": "akron / canton",
+          "region_name": "Ohio",
+          "url": "http://akroncanton.craigslist.org"
+        },
+        {
+          "name": "ashtabula",
+          "region_name": "Ohio",
+          "url": "http://ashtabula.craigslist.org"
+        },
+        {
+          "name": "athens ",
+          "region_name": "Ohio",
+          "url": "http://athensohio.craigslist.org"
+        },
+        {
+          "name": "chillicothe",
+          "region_name": "Ohio",
+          "url": "http://chillicothe.craigslist.org"
+        },
+        {
+          "name": "cincinnati",
+          "region_name": "Ohio",
+          "url": "http://cincinnati.craigslist.org"
+        },
+        {
+          "name": "cleveland",
+          "region_name": "Ohio",
+          "url": "http://cleveland.craigslist.org"
+        },
+        {
+          "name": "columbus",
+          "region_name": "Ohio",
+          "url": "http://columbus.craigslist.org"
+        },
+        {
+          "name": "dayton / springfield",
+          "region_name": "Ohio",
+          "url": "http://dayton.craigslist.org"
+        },
+        {
+          "name": "lima / findlay",
+          "region_name": "Ohio",
+          "url": "http://limaohio.craigslist.org"
+        },
+        {
+          "name": "mansfield",
+          "region_name": "Ohio",
+          "url": "http://mansfield.craigslist.org"
+        },
+        {
+          "name": "sandusky",
+          "region_name": "Ohio",
+          "url": "http://sandusky.craigslist.org"
+        },
+        {
+          "name": "toledo",
+          "region_name": "Ohio",
+          "url": "http://toledo.craigslist.org"
+        },
+        {
+          "name": "tuscarawas co",
+          "region_name": "Ohio",
+          "url": "http://tuscarawas.craigslist.org"
+        },
+        {
+          "name": "youngstown",
+          "region_name": "Ohio",
+          "url": "http://youngstown.craigslist.org"
+        },
+        {
+          "name": "zanesville / cambridge",
+          "region_name": "Ohio",
+          "url": "http://zanesville.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Oklahoma",
+      "sub_regions": [
+        {
+          "name": "lawton",
+          "region_name": "Oklahoma",
+          "url": "http://lawton.craigslist.org"
+        },
+        {
+          "name": "northwest OK",
+          "region_name": "Oklahoma",
+          "url": "http://enid.craigslist.org"
+        },
+        {
+          "name": "oklahoma city",
+          "region_name": "Oklahoma",
+          "url": "http://oklahomacity.craigslist.org"
+        },
+        {
+          "name": "stillwater",
+          "region_name": "Oklahoma",
+          "url": "http://stillwater.craigslist.org"
+        },
+        {
+          "name": "tulsa",
+          "region_name": "Oklahoma",
+          "url": "http://tulsa.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Oregon",
+      "sub_regions": [
+        {
+          "name": "bend",
+          "region_name": "Oregon",
+          "url": "http://bend.craigslist.org"
+        },
+        {
+          "name": "corvallis/albany",
+          "region_name": "Oregon",
+          "url": "http://corvallis.craigslist.org"
+        },
+        {
+          "name": "east oregon",
+          "region_name": "Oregon",
+          "url": "http://eastoregon.craigslist.org"
+        },
+        {
+          "name": "eugene",
+          "region_name": "Oregon",
+          "url": "http://eugene.craigslist.org"
+        },
+        {
+          "name": "klamath falls",
+          "region_name": "Oregon",
+          "url": "http://klamath.craigslist.org"
+        },
+        {
+          "name": "medford-ashland",
+          "region_name": "Oregon",
+          "url": "http://medford.craigslist.org"
+        },
+        {
+          "name": "oregon coast",
+          "region_name": "Oregon",
+          "url": "http://oregoncoast.craigslist.org"
+        },
+        {
+          "name": "portland",
+          "region_name": "Oregon",
+          "url": "http://portland.craigslist.org"
+        },
+        {
+          "name": "roseburg",
+          "region_name": "Oregon",
+          "url": "http://roseburg.craigslist.org"
+        },
+        {
+          "name": "salem",
+          "region_name": "Oregon",
+          "url": "http://salem.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Pennsylvania",
+      "sub_regions": [
+        {
+          "name": "altoona-johnstown",
+          "region_name": "Pennsylvania",
+          "url": "http://altoona.craigslist.org"
+        },
+        {
+          "name": "cumberland valley",
+          "region_name": "Pennsylvania",
+          "url": "http://chambersburg.craigslist.org"
+        },
+        {
+          "name": "erie",
+          "region_name": "Pennsylvania",
+          "url": "http://erie.craigslist.org"
+        },
+        {
+          "name": "harrisburg",
+          "region_name": "Pennsylvania",
+          "url": "http://harrisburg.craigslist.org"
+        },
+        {
+          "name": "lancaster",
+          "region_name": "Pennsylvania",
+          "url": "http://lancaster.craigslist.org"
+        },
+        {
+          "name": "lehigh valley",
+          "region_name": "Pennsylvania",
+          "url": "http://allentown.craigslist.org"
+        },
+        {
+          "name": "meadville",
+          "region_name": "Pennsylvania",
+          "url": "http://meadville.craigslist.org"
+        },
+        {
+          "name": "philadelphia",
+          "region_name": "Pennsylvania",
+          "url": "http://philadelphia.craigslist.org"
+        },
+        {
+          "name": "pittsburgh",
+          "region_name": "Pennsylvania",
+          "url": "http://pittsburgh.craigslist.org"
+        },
+        {
+          "name": "poconos",
+          "region_name": "Pennsylvania",
+          "url": "http://poconos.craigslist.org"
+        },
+        {
+          "name": "reading",
+          "region_name": "Pennsylvania",
+          "url": "http://reading.craigslist.org"
+        },
+        {
+          "name": "scranton / wilkes-barre",
+          "region_name": "Pennsylvania",
+          "url": "http://scranton.craigslist.org"
+        },
+        {
+          "name": "state college",
+          "region_name": "Pennsylvania",
+          "url": "http://pennstate.craigslist.org"
+        },
+        {
+          "name": "williamsport",
+          "region_name": "Pennsylvania",
+          "url": "http://williamsport.craigslist.org"
+        },
+        {
+          "name": "york",
+          "region_name": "Pennsylvania",
+          "url": "http://york.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Rhode Island",
+      "sub_regions": [
+        {
+          "name": "rhode island",
+          "region_name": "Rhode Island",
+          "url": "http://providence.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "South Carolina",
+      "sub_regions": [
+        {
+          "name": "charleston",
+          "region_name": "South Carolina",
+          "url": "http://charleston.craigslist.org"
+        },
+        {
+          "name": "columbia",
+          "region_name": "South Carolina",
+          "url": "http://columbia.craigslist.org"
+        },
+        {
+          "name": "florence",
+          "region_name": "South Carolina",
+          "url": "http://florencesc.craigslist.org"
+        },
+        {
+          "name": "greenville / upstate",
+          "region_name": "South Carolina",
+          "url": "http://greenville.craigslist.org"
+        },
+        {
+          "name": "hilton head",
+          "region_name": "South Carolina",
+          "url": "http://hiltonhead.craigslist.org"
+        },
+        {
+          "name": "myrtle beach",
+          "region_name": "South Carolina",
+          "url": "http://myrtlebeach.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "South Dakota",
+      "sub_regions": [
+        {
+          "name": "northeast SD",
+          "region_name": "South Dakota",
+          "url": "http://nesd.craigslist.org"
+        },
+        {
+          "name": "pierre / central SD",
+          "region_name": "South Dakota",
+          "url": "http://csd.craigslist.org"
+        },
+        {
+          "name": "rapid city / west SD",
+          "region_name": "South Dakota",
+          "url": "http://rapidcity.craigslist.org"
+        },
+        {
+          "name": "sioux falls / SE SD",
+          "region_name": "South Dakota",
+          "url": "http://siouxfalls.craigslist.org"
+        },
+        {
+          "name": "south dakota",
+          "region_name": "South Dakota",
+          "url": "http://sd.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Tennessee",
+      "sub_regions": [
+        {
+          "name": "chattanooga",
+          "region_name": "Tennessee",
+          "url": "http://chattanooga.craigslist.org"
+        },
+        {
+          "name": "clarksville",
+          "region_name": "Tennessee",
+          "url": "http://clarksville.craigslist.org"
+        },
+        {
+          "name": "cookeville",
+          "region_name": "Tennessee",
+          "url": "http://cookeville.craigslist.org"
+        },
+        {
+          "name": "jackson  ",
+          "region_name": "Tennessee",
+          "url": "http://jacksontn.craigslist.org"
+        },
+        {
+          "name": "knoxville",
+          "region_name": "Tennessee",
+          "url": "http://knoxville.craigslist.org"
+        },
+        {
+          "name": "memphis",
+          "region_name": "Tennessee",
+          "url": "http://memphis.craigslist.org"
+        },
+        {
+          "name": "nashville",
+          "region_name": "Tennessee",
+          "url": "http://nashville.craigslist.org"
+        },
+        {
+          "name": "tri-cities",
+          "region_name": "Tennessee",
+          "url": "http://tricities.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Texas",
+      "sub_regions": [
+        {
+          "name": "abilene",
+          "region_name": "Texas",
+          "url": "http://abilene.craigslist.org"
+        },
+        {
+          "name": "amarillo",
+          "region_name": "Texas",
+          "url": "http://amarillo.craigslist.org"
+        },
+        {
+          "name": "austin",
+          "region_name": "Texas",
+          "url": "http://austin.craigslist.org"
+        },
+        {
+          "name": "beaumont / port arthur",
+          "region_name": "Texas",
+          "url": "http://beaumont.craigslist.org"
+        },
+        {
+          "name": "brownsville",
+          "region_name": "Texas",
+          "url": "http://brownsville.craigslist.org"
+        },
+        {
+          "name": "college station",
+          "region_name": "Texas",
+          "url": "http://collegestation.craigslist.org"
+        },
+        {
+          "name": "corpus christi",
+          "region_name": "Texas",
+          "url": "http://corpuschristi.craigslist.org"
+        },
+        {
+          "name": "dallas / fort worth",
+          "region_name": "Texas",
+          "url": "http://dallas.craigslist.org"
+        },
+        {
+          "name": "deep east texas",
+          "region_name": "Texas",
+          "url": "http://nacogdoches.craigslist.org"
+        },
+        {
+          "name": "del rio / eagle pass",
+          "region_name": "Texas",
+          "url": "http://delrio.craigslist.org"
+        },
+        {
+          "name": "el paso",
+          "region_name": "Texas",
+          "url": "http://elpaso.craigslist.org"
+        },
+        {
+          "name": "galveston",
+          "region_name": "Texas",
+          "url": "http://galveston.craigslist.org"
+        },
+        {
+          "name": "houston",
+          "region_name": "Texas",
+          "url": "http://houston.craigslist.org"
+        },
+        {
+          "name": "killeen / temple / ft hood",
+          "region_name": "Texas",
+          "url": "http://killeen.craigslist.org"
+        },
+        {
+          "name": "laredo",
+          "region_name": "Texas",
+          "url": "http://laredo.craigslist.org"
+        },
+        {
+          "name": "lubbock",
+          "region_name": "Texas",
+          "url": "http://lubbock.craigslist.org"
+        },
+        {
+          "name": "mcallen / edinburg",
+          "region_name": "Texas",
+          "url": "http://mcallen.craigslist.org"
+        },
+        {
+          "name": "odessa / midland",
+          "region_name": "Texas",
+          "url": "http://odessa.craigslist.org"
+        },
+        {
+          "name": "san angelo",
+          "region_name": "Texas",
+          "url": "http://sanangelo.craigslist.org"
+        },
+        {
+          "name": "san antonio",
+          "region_name": "Texas",
+          "url": "http://sanantonio.craigslist.org"
+        },
+        {
+          "name": "san marcos",
+          "region_name": "Texas",
+          "url": "http://sanmarcos.craigslist.org"
+        },
+        {
+          "name": "southwest TX",
+          "region_name": "Texas",
+          "url": "http://bigbend.craigslist.org"
+        },
+        {
+          "name": "texoma",
+          "region_name": "Texas",
+          "url": "http://texoma.craigslist.org"
+        },
+        {
+          "name": "tyler / east TX",
+          "region_name": "Texas",
+          "url": "http://easttexas.craigslist.org"
+        },
+        {
+          "name": "victoria ",
+          "region_name": "Texas",
+          "url": "http://victoriatx.craigslist.org"
+        },
+        {
+          "name": "waco",
+          "region_name": "Texas",
+          "url": "http://waco.craigslist.org"
+        },
+        {
+          "name": "wichita falls",
+          "region_name": "Texas",
+          "url": "http://wichitafalls.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Utah",
+      "sub_regions": [
+        {
+          "name": "logan",
+          "region_name": "Utah",
+          "url": "http://logan.craigslist.org"
+        },
+        {
+          "name": "ogden-clearfield",
+          "region_name": "Utah",
+          "url": "http://ogden.craigslist.org"
+        },
+        {
+          "name": "provo / orem",
+          "region_name": "Utah",
+          "url": "http://provo.craigslist.org"
+        },
+        {
+          "name": "salt lake city",
+          "region_name": "Utah",
+          "url": "http://saltlakecity.craigslist.org"
+        },
+        {
+          "name": "st george",
+          "region_name": "Utah",
+          "url": "http://stgeorge.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Vermont",
+      "sub_regions": [
+        {
+          "name": "vermont",
+          "region_name": "Vermont",
+          "url": "http://burlington.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Virginia",
+      "sub_regions": [
+        {
+          "name": "charlottesville",
+          "region_name": "Virginia",
+          "url": "http://charlottesville.craigslist.org"
+        },
+        {
+          "name": "danville",
+          "region_name": "Virginia",
+          "url": "http://danville.craigslist.org"
+        },
+        {
+          "name": "fredericksburg",
+          "region_name": "Virginia",
+          "url": "http://fredericksburg.craigslist.org"
+        },
+        {
+          "name": "hampton roads",
+          "region_name": "Virginia",
+          "url": "http://norfolk.craigslist.org"
+        },
+        {
+          "name": "harrisonburg",
+          "region_name": "Virginia",
+          "url": "http://harrisonburg.craigslist.org"
+        },
+        {
+          "name": "lynchburg",
+          "region_name": "Virginia",
+          "url": "http://lynchburg.craigslist.org"
+        },
+        {
+          "name": "new river valley",
+          "region_name": "Virginia",
+          "url": "http://blacksburg.craigslist.org"
+        },
+        {
+          "name": "richmond",
+          "region_name": "Virginia",
+          "url": "http://richmond.craigslist.org"
+        },
+        {
+          "name": "roanoke",
+          "region_name": "Virginia",
+          "url": "http://roanoke.craigslist.org"
+        },
+        {
+          "name": "southwest VA",
+          "region_name": "Virginia",
+          "url": "http://swva.craigslist.org"
+        },
+        {
+          "name": "winchester",
+          "region_name": "Virginia",
+          "url": "http://winchester.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Washington",
+      "sub_regions": [
+        {
+          "name": "bellingham",
+          "region_name": "Washington",
+          "url": "http://bellingham.craigslist.org"
+        },
+        {
+          "name": "kennewick-pasco-richland",
+          "region_name": "Washington",
+          "url": "http://kpr.craigslist.org"
+        },
+        {
+          "name": "moses lake",
+          "region_name": "Washington",
+          "url": "http://moseslake.craigslist.org"
+        },
+        {
+          "name": "olympic peninsula",
+          "region_name": "Washington",
+          "url": "http://olympic.craigslist.org"
+        },
+        {
+          "name": "pullman / moscow",
+          "region_name": "Washington",
+          "url": "http://pullman.craigslist.org"
+        },
+        {
+          "name": "seattle-tacoma",
+          "region_name": "Washington",
+          "url": "http://seattle.craigslist.org"
+        },
+        {
+          "name": "skagit / island / SJI",
+          "region_name": "Washington",
+          "url": "http://skagit.craigslist.org"
+        },
+        {
+          "name": "spokane / coeur d'alene",
+          "region_name": "Washington",
+          "url": "http://spokane.craigslist.org"
+        },
+        {
+          "name": "wenatchee",
+          "region_name": "Washington",
+          "url": "http://wenatchee.craigslist.org"
+        },
+        {
+          "name": "yakima",
+          "region_name": "Washington",
+          "url": "http://yakima.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "West Virginia",
+      "sub_regions": [
+        {
+          "name": "charleston ",
+          "region_name": "West Virginia",
+          "url": "http://charlestonwv.craigslist.org"
+        },
+        {
+          "name": "eastern panhandle",
+          "region_name": "West Virginia",
+          "url": "http://martinsburg.craigslist.org"
+        },
+        {
+          "name": "huntington-ashland",
+          "region_name": "West Virginia",
+          "url": "http://huntington.craigslist.org"
+        },
+        {
+          "name": "morgantown",
+          "region_name": "West Virginia",
+          "url": "http://morgantown.craigslist.org"
+        },
+        {
+          "name": "northern panhandle",
+          "region_name": "West Virginia",
+          "url": "http://wheeling.craigslist.org"
+        },
+        {
+          "name": "parkersburg-marietta",
+          "region_name": "West Virginia",
+          "url": "http://parkersburg.craigslist.org"
+        },
+        {
+          "name": "southern WV",
+          "region_name": "West Virginia",
+          "url": "http://swv.craigslist.org"
+        },
+        {
+          "name": "west virginia (old)",
+          "region_name": "West Virginia",
+          "url": "http://wv.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Wisconsin",
+      "sub_regions": [
+        {
+          "name": "appleton-oshkosh-FDL",
+          "region_name": "Wisconsin",
+          "url": "http://appleton.craigslist.org"
+        },
+        {
+          "name": "eau claire",
+          "region_name": "Wisconsin",
+          "url": "http://eauclaire.craigslist.org"
+        },
+        {
+          "name": "green bay",
+          "region_name": "Wisconsin",
+          "url": "http://greenbay.craigslist.org"
+        },
+        {
+          "name": "janesville",
+          "region_name": "Wisconsin",
+          "url": "http://janesville.craigslist.org"
+        },
+        {
+          "name": "kenosha-racine",
+          "region_name": "Wisconsin",
+          "url": "http://racine.craigslist.org"
+        },
+        {
+          "name": "la crosse",
+          "region_name": "Wisconsin",
+          "url": "http://lacrosse.craigslist.org"
+        },
+        {
+          "name": "madison",
+          "region_name": "Wisconsin",
+          "url": "http://madison.craigslist.org"
+        },
+        {
+          "name": "milwaukee",
+          "region_name": "Wisconsin",
+          "url": "http://milwaukee.craigslist.org"
+        },
+        {
+          "name": "northern WI",
+          "region_name": "Wisconsin",
+          "url": "http://northernwi.craigslist.org"
+        },
+        {
+          "name": "sheboygan",
+          "region_name": "Wisconsin",
+          "url": "http://sheboygan.craigslist.org"
+        },
+        {
+          "name": "wausau",
+          "region_name": "Wisconsin",
+          "url": "http://wausau.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Wyoming",
+      "sub_regions": [
+        {
+          "name": "wyoming",
+          "region_name": "Wyoming",
+          "url": "http://wyoming.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Territories",
+      "sub_regions": [
+        {
+          "name": "guam-micronesia",
+          "region_name": "Territories",
+          "url": "http://micronesia.craigslist.org"
+        },
+        {
+          "name": "puerto rico",
+          "region_name": "Territories",
+          "url": "http://puertorico.craigslist.org"
+        },
+        {
+          "name": "U.S. virgin islands",
+          "region_name": "Territories",
+          "url": "http://virgin.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Alberta",
+      "sub_regions": [
+        {
+          "name": "calgary",
+          "region_name": "Alberta",
+          "url": "http://calgary.craigslist.ca"
+        },
+        {
+          "name": "edmonton",
+          "region_name": "Alberta",
+          "url": "http://edmonton.craigslist.ca"
+        },
+        {
+          "name": "ft mcmurray",
+          "region_name": "Alberta",
+          "url": "http://ftmcmurray.craigslist.ca"
+        },
+        {
+          "name": "lethbridge",
+          "region_name": "Alberta",
+          "url": "http://lethbridge.craigslist.ca"
+        },
+        {
+          "name": "medicine hat",
+          "region_name": "Alberta",
+          "url": "http://hat.craigslist.ca"
+        },
+        {
+          "name": "peace river country",
+          "region_name": "Alberta",
+          "url": "http://peace.craigslist.ca"
+        },
+        {
+          "name": "red deer",
+          "region_name": "Alberta",
+          "url": "http://reddeer.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "British Columbia",
+      "sub_regions": [
+        {
+          "name": "cariboo",
+          "region_name": "British Columbia",
+          "url": "http://cariboo.craigslist.ca"
+        },
+        {
+          "name": "comox valley",
+          "region_name": "British Columbia",
+          "url": "http://comoxvalley.craigslist.ca"
+        },
+        {
+          "name": "fraser valley",
+          "region_name": "British Columbia",
+          "url": "http://abbotsford.craigslist.ca"
+        },
+        {
+          "name": "kamloops",
+          "region_name": "British Columbia",
+          "url": "http://kamloops.craigslist.ca"
+        },
+        {
+          "name": "kelowna / okanagan",
+          "region_name": "British Columbia",
+          "url": "http://kelowna.craigslist.ca"
+        },
+        {
+          "name": "kootenays",
+          "region_name": "British Columbia",
+          "url": "http://cranbrook.craigslist.ca"
+        },
+        {
+          "name": "nanaimo",
+          "region_name": "British Columbia",
+          "url": "http://nanaimo.craigslist.ca"
+        },
+        {
+          "name": "prince george",
+          "region_name": "British Columbia",
+          "url": "http://princegeorge.craigslist.ca"
+        },
+        {
+          "name": "skeena-bulkley",
+          "region_name": "British Columbia",
+          "url": "http://skeena.craigslist.ca"
+        },
+        {
+          "name": "sunshine coast",
+          "region_name": "British Columbia",
+          "url": "http://sunshine.craigslist.ca"
+        },
+        {
+          "name": "vancouver",
+          "region_name": "British Columbia",
+          "url": "http://vancouver.craigslist.ca"
+        },
+        {
+          "name": "victoria",
+          "region_name": "British Columbia",
+          "url": "http://victoria.craigslist.ca"
+        },
+        {
+          "name": "whistler",
+          "region_name": "British Columbia",
+          "url": "http://whistler.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Manitoba",
+      "sub_regions": [
+        {
+          "name": "winnipeg",
+          "region_name": "Manitoba",
+          "url": "http://winnipeg.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "New Brunswick",
+      "sub_regions": [
+        {
+          "name": "new brunswick",
+          "region_name": "New Brunswick",
+          "url": "http://newbrunswick.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Newfoundland and Labrador",
+      "sub_regions": [
+        {
+          "name": "st john's",
+          "region_name": "Newfoundland and Labrador",
+          "url": "http://newfoundland.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Northwest Territories",
+      "sub_regions": [
+        {
+          "name": "territories",
+          "region_name": "Northwest Territories",
+          "url": "http://territories.craigslist.ca"
+        },
+        {
+          "name": "yellowknife",
+          "region_name": "Northwest Territories",
+          "url": "http://yellowknife.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Nova Scotia",
+      "sub_regions": [
+        {
+          "name": "halifax",
+          "region_name": "Nova Scotia",
+          "url": "http://halifax.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Ontario",
+      "sub_regions": [
+        {
+          "name": "barrie",
+          "region_name": "Ontario",
+          "url": "http://barrie.craigslist.ca"
+        },
+        {
+          "name": "belleville",
+          "region_name": "Ontario",
+          "url": "http://belleville.craigslist.ca"
+        },
+        {
+          "name": "brantford-woodstock",
+          "region_name": "Ontario",
+          "url": "http://brantford.craigslist.ca"
+        },
+        {
+          "name": "chatham-kent",
+          "region_name": "Ontario",
+          "url": "http://chatham.craigslist.ca"
+        },
+        {
+          "name": "cornwall",
+          "region_name": "Ontario",
+          "url": "http://cornwall.craigslist.ca"
+        },
+        {
+          "name": "guelph",
+          "region_name": "Ontario",
+          "url": "http://guelph.craigslist.ca"
+        },
+        {
+          "name": "hamilton-burlington",
+          "region_name": "Ontario",
+          "url": "http://hamilton.craigslist.ca"
+        },
+        {
+          "name": "kingston",
+          "region_name": "Ontario",
+          "url": "http://kingston.craigslist.ca"
+        },
+        {
+          "name": "kitchener-waterloo-cambridge",
+          "region_name": "Ontario",
+          "url": "http://kitchener.craigslist.ca"
+        },
+        {
+          "name": "london ",
+          "region_name": "Ontario",
+          "url": "http://londonon.craigslist.ca"
+        },
+        {
+          "name": "niagara region",
+          "region_name": "Ontario",
+          "url": "http://niagara.craigslist.ca"
+        },
+        {
+          "name": "ottawa-hull-gatineau",
+          "region_name": "Ontario",
+          "url": "http://ottawa.craigslist.ca"
+        },
+        {
+          "name": "owen sound",
+          "region_name": "Ontario",
+          "url": "http://owensound.craigslist.ca"
+        },
+        {
+          "name": "peterborough",
+          "region_name": "Ontario",
+          "url": "http://peterborough.craigslist.ca"
+        },
+        {
+          "name": "sarnia",
+          "region_name": "Ontario",
+          "url": "http://sarnia.craigslist.ca"
+        },
+        {
+          "name": "sault ste marie",
+          "region_name": "Ontario",
+          "url": "http://soo.craigslist.ca"
+        },
+        {
+          "name": "sudbury",
+          "region_name": "Ontario",
+          "url": "http://sudbury.craigslist.ca"
+        },
+        {
+          "name": "thunder bay",
+          "region_name": "Ontario",
+          "url": "http://thunderbay.craigslist.ca"
+        },
+        {
+          "name": "toronto",
+          "region_name": "Ontario",
+          "url": "http://toronto.craigslist.ca"
+        },
+        {
+          "name": "windsor",
+          "region_name": "Ontario",
+          "url": "http://windsor.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Prince Edward Island",
+      "sub_regions": [
+        {
+          "name": "prince edward island",
+          "region_name": "Prince Edward Island",
+          "url": "http://pei.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Quebec",
+      "sub_regions": [
+        {
+          "name": "montreal",
+          "region_name": "Quebec",
+          "url": "http://montreal.craigslist.ca"
+        },
+        {
+          "name": "quebec city",
+          "region_name": "Quebec",
+          "url": "http://quebec.craigslist.ca"
+        },
+        {
+          "name": "saguenay",
+          "region_name": "Quebec",
+          "url": "http://saguenay.craigslist.ca"
+        },
+        {
+          "name": "sherbrooke",
+          "region_name": "Quebec",
+          "url": "http://sherbrooke.craigslist.ca"
+        },
+        {
+          "name": "trois-rivieres",
+          "region_name": "Quebec",
+          "url": "http://troisrivieres.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Saskatchewan",
+      "sub_regions": [
+        {
+          "name": "regina",
+          "region_name": "Saskatchewan",
+          "url": "http://regina.craigslist.ca"
+        },
+        {
+          "name": "saskatoon",
+          "region_name": "Saskatchewan",
+          "url": "http://saskatoon.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Yukon Territory",
+      "sub_regions": [
+        {
+          "name": "whitehorse",
+          "region_name": "Yukon Territory",
+          "url": "http://whitehorse.craigslist.ca"
+        }
+      ]
+    },
+    {
+      "name": "Austria",
+      "sub_regions": [
+        {
+          "name": "vienna",
+          "region_name": "Austria",
+          "url": "http://vienna.craigslist.at"
+        }
+      ]
+    },
+    {
+      "name": "Belgium",
+      "sub_regions": [
+        {
+          "name": "belgium",
+          "region_name": "Belgium",
+          "url": "http://brussels.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Bulgaria",
+      "sub_regions": [
+        {
+          "name": "bulgaria",
+          "region_name": "Bulgaria",
+          "url": "http://bulgaria.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Croatia",
+      "sub_regions": [
+        {
+          "name": "croatia",
+          "region_name": "Croatia",
+          "url": "http://zagreb.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Czech Republic",
+      "sub_regions": [
+        {
+          "name": "prague",
+          "region_name": "Czech Republic",
+          "url": "http://prague.craigslist.cz"
+        }
+      ]
+    },
+    {
+      "name": "Denmark",
+      "sub_regions": [
+        {
+          "name": "copenhagen",
+          "region_name": "Denmark",
+          "url": "http://copenhagen.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Finland",
+      "sub_regions": [
+        {
+          "name": "finland",
+          "region_name": "Finland",
+          "url": "http://helsinki.craigslist.fi"
+        }
+      ]
+    },
+    {
+      "name": "France",
+      "sub_regions": [
+        {
+          "name": "bordeaux",
+          "region_name": "France",
+          "url": "http://bordeaux.craigslist.org"
+        },
+        {
+          "name": "brittany",
+          "region_name": "France",
+          "url": "http://rennes.craigslist.org"
+        },
+        {
+          "name": "grenoble",
+          "region_name": "France",
+          "url": "http://grenoble.craigslist.org"
+        },
+        {
+          "name": "lille",
+          "region_name": "France",
+          "url": "http://lille.craigslist.org"
+        },
+        {
+          "name": "loire valley",
+          "region_name": "France",
+          "url": "http://loire.craigslist.org"
+        },
+        {
+          "name": "lyon",
+          "region_name": "France",
+          "url": "http://lyon.craigslist.org"
+        },
+        {
+          "name": "marseille",
+          "region_name": "France",
+          "url": "http://marseilles.craigslist.org"
+        },
+        {
+          "name": "montpellier",
+          "region_name": "France",
+          "url": "http://montpellier.craigslist.org"
+        },
+        {
+          "name": "nice / cote d'azur",
+          "region_name": "France",
+          "url": "http://cotedazur.craigslist.org"
+        },
+        {
+          "name": "normandy",
+          "region_name": "France",
+          "url": "http://rouen.craigslist.org"
+        },
+        {
+          "name": "paris",
+          "region_name": "France",
+          "url": "http://paris.craigslist.org"
+        },
+        {
+          "name": "strasbourg",
+          "region_name": "France",
+          "url": "http://strasbourg.craigslist.org"
+        },
+        {
+          "name": "toulouse",
+          "region_name": "France",
+          "url": "http://toulouse.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "sub_regions": [
+        {
+          "name": "berlin",
+          "region_name": "Germany",
+          "url": "http://berlin.craigslist.de"
+        },
+        {
+          "name": "bremen",
+          "region_name": "Germany",
+          "url": "http://bremen.craigslist.de"
+        },
+        {
+          "name": "cologne",
+          "region_name": "Germany",
+          "url": "http://cologne.craigslist.de"
+        },
+        {
+          "name": "dresden",
+          "region_name": "Germany",
+          "url": "http://dresden.craigslist.de"
+        },
+        {
+          "name": "dusseldorf",
+          "region_name": "Germany",
+          "url": "http://dusseldorf.craigslist.de"
+        },
+        {
+          "name": "essen / ruhr",
+          "region_name": "Germany",
+          "url": "http://essen.craigslist.de"
+        },
+        {
+          "name": "frankfurt",
+          "region_name": "Germany",
+          "url": "http://frankfurt.craigslist.de"
+        },
+        {
+          "name": "hamburg",
+          "region_name": "Germany",
+          "url": "http://hamburg.craigslist.de"
+        },
+        {
+          "name": "hannover",
+          "region_name": "Germany",
+          "url": "http://hannover.craigslist.de"
+        },
+        {
+          "name": "heidelberg",
+          "region_name": "Germany",
+          "url": "http://heidelberg.craigslist.de"
+        },
+        {
+          "name": "kaiserslautern",
+          "region_name": "Germany",
+          "url": "http://kaiserslautern.craigslist.de"
+        },
+        {
+          "name": "leipzig",
+          "region_name": "Germany",
+          "url": "http://leipzig.craigslist.de"
+        },
+        {
+          "name": "munich",
+          "region_name": "Germany",
+          "url": "http://munich.craigslist.de"
+        },
+        {
+          "name": "nuremberg",
+          "region_name": "Germany",
+          "url": "http://nuremberg.craigslist.de"
+        },
+        {
+          "name": "stuttgart",
+          "region_name": "Germany",
+          "url": "http://stuttgart.craigslist.de"
+        }
+      ]
+    },
+    {
+      "name": "Greece",
+      "sub_regions": [
+        {
+          "name": "greece",
+          "region_name": "Greece",
+          "url": "http://athens.craigslist.gr"
+        }
+      ]
+    },
+    {
+      "name": "Hungary",
+      "sub_regions": [
+        {
+          "name": "budapest",
+          "region_name": "Hungary",
+          "url": "http://budapest.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Iceland",
+      "sub_regions": [
+        {
+          "name": "reykjavik",
+          "region_name": "Iceland",
+          "url": "http://reykjavik.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Ireland",
+      "sub_regions": [
+        {
+          "name": "dublin",
+          "region_name": "Ireland",
+          "url": "http://dublin.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Italy",
+      "sub_regions": [
+        {
+          "name": "bologna",
+          "region_name": "Italy",
+          "url": "http://bologna.craigslist.it"
+        },
+        {
+          "name": "florence / tuscany",
+          "region_name": "Italy",
+          "url": "http://florence.craigslist.it"
+        },
+        {
+          "name": "genoa",
+          "region_name": "Italy",
+          "url": "http://genoa.craigslist.it"
+        },
+        {
+          "name": "milan",
+          "region_name": "Italy",
+          "url": "http://milan.craigslist.it"
+        },
+        {
+          "name": "napoli / campania",
+          "region_name": "Italy",
+          "url": "http://naples.craigslist.it"
+        },
+        {
+          "name": "perugia",
+          "region_name": "Italy",
+          "url": "http://perugia.craigslist.it"
+        },
+        {
+          "name": "rome",
+          "region_name": "Italy",
+          "url": "http://rome.craigslist.it"
+        },
+        {
+          "name": "sardinia",
+          "region_name": "Italy",
+          "url": "http://sardinia.craigslist.it"
+        },
+        {
+          "name": "sicilia",
+          "region_name": "Italy",
+          "url": "http://sicily.craigslist.it"
+        },
+        {
+          "name": "torino",
+          "region_name": "Italy",
+          "url": "http://torino.craigslist.it"
+        },
+        {
+          "name": "venice / veneto",
+          "region_name": "Italy",
+          "url": "http://venice.craigslist.it"
+        }
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "sub_regions": [
+        {
+          "name": "luxembourg",
+          "region_name": "Luxembourg",
+          "url": "http://luxembourg.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "sub_regions": [
+        {
+          "name": "amsterdam / randstad",
+          "region_name": "Netherlands",
+          "url": "http://amsterdam.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Norway",
+      "sub_regions": [
+        {
+          "name": "norway",
+          "region_name": "Norway",
+          "url": "http://oslo.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "sub_regions": [
+        {
+          "name": "poland",
+          "region_name": "Poland",
+          "url": "http://warsaw.craigslist.pl"
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "sub_regions": [
+        {
+          "name": "faro / algarve",
+          "region_name": "Portugal",
+          "url": "http://faro.craigslist.pt"
+        },
+        {
+          "name": "lisbon",
+          "region_name": "Portugal",
+          "url": "http://lisbon.craigslist.pt"
+        },
+        {
+          "name": "porto",
+          "region_name": "Portugal",
+          "url": "http://porto.craigslist.pt"
+        }
+      ]
+    },
+    {
+      "name": "Romania",
+      "sub_regions": [
+        {
+          "name": "romania",
+          "region_name": "Romania",
+          "url": "http://bucharest.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Russian Federation",
+      "sub_regions": [
+        {
+          "name": "moscow",
+          "region_name": "Russian Federation",
+          "url": "http://moscow.craigslist.org"
+        },
+        {
+          "name": "st petersburg",
+          "region_name": "Russian Federation",
+          "url": "http://stpetersburg.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Spain",
+      "sub_regions": [
+        {
+          "name": "alicante",
+          "region_name": "Spain",
+          "url": "http://alicante.craigslist.es"
+        },
+        {
+          "name": "baleares",
+          "region_name": "Spain",
+          "url": "http://baleares.craigslist.es"
+        },
+        {
+          "name": "barcelona",
+          "region_name": "Spain",
+          "url": "http://barcelona.craigslist.es"
+        },
+        {
+          "name": "bilbao",
+          "region_name": "Spain",
+          "url": "http://bilbao.craigslist.es"
+        },
+        {
+          "name": "cadiz",
+          "region_name": "Spain",
+          "url": "http://cadiz.craigslist.es"
+        },
+        {
+          "name": "canarias",
+          "region_name": "Spain",
+          "url": "http://canarias.craigslist.es"
+        },
+        {
+          "name": "granada",
+          "region_name": "Spain",
+          "url": "http://granada.craigslist.es"
+        },
+        {
+          "name": "madrid",
+          "region_name": "Spain",
+          "url": "http://madrid.craigslist.es"
+        },
+        {
+          "name": "malaga",
+          "region_name": "Spain",
+          "url": "http://malaga.craigslist.es"
+        },
+        {
+          "name": "sevilla",
+          "region_name": "Spain",
+          "url": "http://sevilla.craigslist.es"
+        },
+        {
+          "name": "valencia",
+          "region_name": "Spain",
+          "url": "http://valencia.craigslist.es"
+        }
+      ]
+    },
+    {
+      "name": "Sweden",
+      "sub_regions": [
+        {
+          "name": "sweden",
+          "region_name": "Sweden",
+          "url": "http://stockholm.craigslist.se"
+        }
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "sub_regions": [
+        {
+          "name": "basel",
+          "region_name": "Switzerland",
+          "url": "http://basel.craigslist.ch"
+        },
+        {
+          "name": "bern",
+          "region_name": "Switzerland",
+          "url": "http://bern.craigslist.ch"
+        },
+        {
+          "name": "geneva",
+          "region_name": "Switzerland",
+          "url": "http://geneva.craigslist.ch"
+        },
+        {
+          "name": "lausanne",
+          "region_name": "Switzerland",
+          "url": "http://lausanne.craigslist.ch"
+        },
+        {
+          "name": "zurich",
+          "region_name": "Switzerland",
+          "url": "http://zurich.craigslist.ch"
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "sub_regions": [
+        {
+          "name": "turkey",
+          "region_name": "Turkey",
+          "url": "http://istanbul.craigslist.com.tr"
+        }
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "sub_regions": [
+        {
+          "name": "ukraine",
+          "region_name": "Ukraine",
+          "url": "http://ukraine.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "United Kingdom",
+      "sub_regions": [
+        {
+          "name": "aberdeen",
+          "region_name": "United Kingdom",
+          "url": "http://aberdeen.craigslist.co.uk"
+        },
+        {
+          "name": "bath",
+          "region_name": "United Kingdom",
+          "url": "http://bath.craigslist.co.uk"
+        },
+        {
+          "name": "belfast",
+          "region_name": "United Kingdom",
+          "url": "http://belfast.craigslist.co.uk"
+        },
+        {
+          "name": "birmingham / west mids",
+          "region_name": "United Kingdom",
+          "url": "http://birmingham.craigslist.co.uk"
+        },
+        {
+          "name": "brighton",
+          "region_name": "United Kingdom",
+          "url": "http://brighton.craigslist.co.uk"
+        },
+        {
+          "name": "bristol",
+          "region_name": "United Kingdom",
+          "url": "http://bristol.craigslist.co.uk"
+        },
+        {
+          "name": "cambridge, UK",
+          "region_name": "United Kingdom",
+          "url": "http://cambridge.craigslist.co.uk"
+        },
+        {
+          "name": "cardiff / wales",
+          "region_name": "United Kingdom",
+          "url": "http://cardiff.craigslist.co.uk"
+        },
+        {
+          "name": "coventry",
+          "region_name": "United Kingdom",
+          "url": "http://coventry.craigslist.co.uk"
+        },
+        {
+          "name": "derby",
+          "region_name": "United Kingdom",
+          "url": "http://derby.craigslist.co.uk"
+        },
+        {
+          "name": "devon &amp; cornwall",
+          "region_name": "United Kingdom",
+          "url": "http://devon.craigslist.co.uk"
+        },
+        {
+          "name": "dundee",
+          "region_name": "United Kingdom",
+          "url": "http://dundee.craigslist.co.uk"
+        },
+        {
+          "name": "east anglia",
+          "region_name": "United Kingdom",
+          "url": "http://norwich.craigslist.co.uk"
+        },
+        {
+          "name": "east midlands",
+          "region_name": "United Kingdom",
+          "url": "http://eastmids.craigslist.co.uk"
+        },
+        {
+          "name": "edinburgh",
+          "region_name": "United Kingdom",
+          "url": "http://edinburgh.craigslist.co.uk"
+        },
+        {
+          "name": "essex",
+          "region_name": "United Kingdom",
+          "url": "http://essex.craigslist.co.uk"
+        },
+        {
+          "name": "glasgow",
+          "region_name": "United Kingdom",
+          "url": "http://glasgow.craigslist.co.uk"
+        },
+        {
+          "name": "hampshire",
+          "region_name": "United Kingdom",
+          "url": "http://hampshire.craigslist.co.uk"
+        },
+        {
+          "name": "kent",
+          "region_name": "United Kingdom",
+          "url": "http://kent.craigslist.co.uk"
+        },
+        {
+          "name": "leeds",
+          "region_name": "United Kingdom",
+          "url": "http://leeds.craigslist.co.uk"
+        },
+        {
+          "name": "liverpool",
+          "region_name": "United Kingdom",
+          "url": "http://liverpool.craigslist.co.uk"
+        },
+        {
+          "name": "london",
+          "region_name": "United Kingdom",
+          "url": "http://london.craigslist.co.uk"
+        },
+        {
+          "name": "manchester",
+          "region_name": "United Kingdom",
+          "url": "http://manchester.craigslist.co.uk"
+        },
+        {
+          "name": "newcastle / NE england",
+          "region_name": "United Kingdom",
+          "url": "http://newcastle.craigslist.co.uk"
+        },
+        {
+          "name": "nottingham",
+          "region_name": "United Kingdom",
+          "url": "http://nottingham.craigslist.co.uk"
+        },
+        {
+          "name": "oxford",
+          "region_name": "United Kingdom",
+          "url": "http://oxford.craigslist.co.uk"
+        },
+        {
+          "name": "sheffield",
+          "region_name": "United Kingdom",
+          "url": "http://sheffield.craigslist.co.uk"
+        }
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "sub_regions": [
+        {
+          "name": "bangladesh",
+          "region_name": "Bangladesh",
+          "url": "http://bangladesh.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "China",
+      "sub_regions": [
+        {
+          "name": "beijing",
+          "region_name": "China",
+          "url": "http://beijing.craigslist.com.cn"
+        },
+        {
+          "name": "chengdu",
+          "region_name": "China",
+          "url": "http://chengdu.craigslist.com.cn"
+        },
+        {
+          "name": "chongqing",
+          "region_name": "China",
+          "url": "http://chongqing.craigslist.com.cn"
+        },
+        {
+          "name": "dalian",
+          "region_name": "China",
+          "url": "http://dalian.craigslist.com.cn"
+        },
+        {
+          "name": "guangzhou",
+          "region_name": "China",
+          "url": "http://guangzhou.craigslist.com.cn"
+        },
+        {
+          "name": "hangzhou",
+          "region_name": "China",
+          "url": "http://hangzhou.craigslist.com.cn"
+        },
+        {
+          "name": "nanjing",
+          "region_name": "China",
+          "url": "http://nanjing.craigslist.com.cn"
+        },
+        {
+          "name": "shanghai",
+          "region_name": "China",
+          "url": "http://shanghai.craigslist.com.cn"
+        },
+        {
+          "name": "shenyang",
+          "region_name": "China",
+          "url": "http://shenyang.craigslist.com.cn"
+        },
+        {
+          "name": "shenzhen",
+          "region_name": "China",
+          "url": "http://shenzhen.craigslist.com.cn"
+        },
+        {
+          "name": "wuhan",
+          "region_name": "China",
+          "url": "http://wuhan.craigslist.com.cn"
+        },
+        {
+          "name": "xi'an",
+          "region_name": "China",
+          "url": "http://xian.craigslist.com.cn"
+        }
+      ]
+    },
+    {
+      "name": "Guam / Micronesia",
+      "sub_regions": [
+        {
+          "name": "guam-micronesia",
+          "region_name": "Guam / Micronesia",
+          "url": "http://micronesia.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "sub_regions": [
+        {
+          "name": "hong kong",
+          "region_name": "Hong Kong",
+          "url": "http://hongkong.craigslist.hk"
+        }
+      ]
+    },
+    {
+      "name": "India",
+      "sub_regions": [
+        {
+          "name": "ahmedabad",
+          "region_name": "India",
+          "url": "http://ahmedabad.craigslist.co.in"
+        },
+        {
+          "name": "bangalore",
+          "region_name": "India",
+          "url": "http://bangalore.craigslist.co.in"
+        },
+        {
+          "name": "bhubaneswar",
+          "region_name": "India",
+          "url": "http://bhubaneswar.craigslist.co.in"
+        },
+        {
+          "name": "chandigarh",
+          "region_name": "India",
+          "url": "http://chandigarh.craigslist.co.in"
+        },
+        {
+          "name": "chennai (madras)",
+          "region_name": "India",
+          "url": "http://chennai.craigslist.co.in"
+        },
+        {
+          "name": "delhi",
+          "region_name": "India",
+          "url": "http://delhi.craigslist.co.in"
+        },
+        {
+          "name": "goa",
+          "region_name": "India",
+          "url": "http://goa.craigslist.co.in"
+        },
+        {
+          "name": "hyderabad",
+          "region_name": "India",
+          "url": "http://hyderabad.craigslist.co.in"
+        },
+        {
+          "name": "indore",
+          "region_name": "India",
+          "url": "http://indore.craigslist.co.in"
+        },
+        {
+          "name": "jaipur",
+          "region_name": "India",
+          "url": "http://jaipur.craigslist.co.in"
+        },
+        {
+          "name": "kerala",
+          "region_name": "India",
+          "url": "http://kerala.craigslist.co.in"
+        },
+        {
+          "name": "kolkata (calcutta)",
+          "region_name": "India",
+          "url": "http://kolkata.craigslist.co.in"
+        },
+        {
+          "name": "lucknow",
+          "region_name": "India",
+          "url": "http://lucknow.craigslist.co.in"
+        },
+        {
+          "name": "mumbai",
+          "region_name": "India",
+          "url": "http://mumbai.craigslist.co.in"
+        },
+        {
+          "name": "pune",
+          "region_name": "India",
+          "url": "http://pune.craigslist.co.in"
+        },
+        {
+          "name": "surat surat",
+          "region_name": "India",
+          "url": "http://surat.craigslist.co.in"
+        }
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "sub_regions": [
+        {
+          "name": "indonesia",
+          "region_name": "Indonesia",
+          "url": "http://jakarta.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Iran",
+      "sub_regions": [
+        {
+          "name": "iran",
+          "region_name": "Iran",
+          "url": "http://tehran.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Iraq",
+      "sub_regions": [
+        {
+          "name": "iraq",
+          "region_name": "Iraq",
+          "url": "http://baghdad.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Israel and Palestine",
+      "sub_regions": [
+        {
+          "name": "haifa",
+          "region_name": "Israel and Palestine",
+          "url": "http://haifa.craigslist.org"
+        },
+        {
+          "name": "jerusalem",
+          "region_name": "Israel and Palestine",
+          "url": "http://jerusalem.craigslist.org"
+        },
+        {
+          "name": "tel aviv",
+          "region_name": "Israel and Palestine",
+          "url": "http://telaviv.craigslist.org"
+        },
+        {
+          "name": "west bank",
+          "region_name": "Israel and Palestine",
+          "url": "http://ramallah.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "sub_regions": [
+        {
+          "name": "fukuoka",
+          "region_name": "Japan",
+          "url": "http://fukuoka.craigslist.jp"
+        },
+        {
+          "name": "hiroshima",
+          "region_name": "Japan",
+          "url": "http://hiroshima.craigslist.jp"
+        },
+        {
+          "name": "nagoya",
+          "region_name": "Japan",
+          "url": "http://nagoya.craigslist.jp"
+        },
+        {
+          "name": "okinawa",
+          "region_name": "Japan",
+          "url": "http://okinawa.craigslist.jp"
+        },
+        {
+          "name": "osaka-kobe-kyoto",
+          "region_name": "Japan",
+          "url": "http://osaka.craigslist.jp"
+        },
+        {
+          "name": "sapporo",
+          "region_name": "Japan",
+          "url": "http://sapporo.craigslist.jp"
+        },
+        {
+          "name": "sendai",
+          "region_name": "Japan",
+          "url": "http://sendai.craigslist.jp"
+        },
+        {
+          "name": "tokyo",
+          "region_name": "Japan",
+          "url": "http://tokyo.craigslist.jp"
+        }
+      ]
+    },
+    {
+      "name": "Korea",
+      "sub_regions": [
+        {
+          "name": "seoul",
+          "region_name": "Korea",
+          "url": "http://seoul.craigslist.co.kr"
+        }
+      ]
+    },
+    {
+      "name": "Kuwait",
+      "sub_regions": [
+        {
+          "name": "kuwait",
+          "region_name": "Kuwait",
+          "url": "http://kuwait.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Lebanon",
+      "sub_regions": [
+        {
+          "name": "beirut, lebanon",
+          "region_name": "Lebanon",
+          "url": "http://beirut.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "sub_regions": [
+        {
+          "name": "malaysia",
+          "region_name": "Malaysia",
+          "url": "http://malaysia.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "sub_regions": [
+        {
+          "name": "pakistan",
+          "region_name": "Pakistan",
+          "url": "http://pakistan.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Philippines",
+      "sub_regions": [
+        {
+          "name": "bacolod",
+          "region_name": "Philippines",
+          "url": "http://bacolod.craigslist.com.ph"
+        },
+        {
+          "name": "bicol region",
+          "region_name": "Philippines",
+          "url": "http://naga.craigslist.com.ph"
+        },
+        {
+          "name": "cagayan de oro",
+          "region_name": "Philippines",
+          "url": "http://cdo.craigslist.com.ph"
+        },
+        {
+          "name": "cebu",
+          "region_name": "Philippines",
+          "url": "http://cebu.craigslist.com.ph"
+        },
+        {
+          "name": "davao city",
+          "region_name": "Philippines",
+          "url": "http://davaocity.craigslist.com.ph"
+        },
+        {
+          "name": "iloilo",
+          "region_name": "Philippines",
+          "url": "http://iloilo.craigslist.com.ph"
+        },
+        {
+          "name": "manila",
+          "region_name": "Philippines",
+          "url": "http://manila.craigslist.com.ph"
+        },
+        {
+          "name": "pampanga",
+          "region_name": "Philippines",
+          "url": "http://pampanga.craigslist.com.ph"
+        },
+        {
+          "name": "zamboanga",
+          "region_name": "Philippines",
+          "url": "http://zamboanga.craigslist.com.ph"
+        }
+      ]
+    },
+    {
+      "name": "Singapore",
+      "sub_regions": [
+        {
+          "name": "singapore",
+          "region_name": "Singapore",
+          "url": "http://singapore.craigslist.com.sg"
+        }
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "sub_regions": [
+        {
+          "name": "taiwan",
+          "region_name": "Taiwan",
+          "url": "http://taipei.craigslist.com.tw"
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "sub_regions": [
+        {
+          "name": "thailand",
+          "region_name": "Thailand",
+          "url": "http://bangkok.craigslist.co.th"
+        }
+      ]
+    },
+    {
+      "name": "United Arab Emirates",
+      "sub_regions": [
+        {
+          "name": "united arab emirates",
+          "region_name": "United Arab Emirates",
+          "url": "http://dubai.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "sub_regions": [
+        {
+          "name": "vietnam",
+          "region_name": "Vietnam",
+          "url": "http://vietnam.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Australia",
+      "sub_regions": [
+        {
+          "name": "adelaide",
+          "region_name": "Australia",
+          "url": "http://adelaide.craigslist.com.au"
+        },
+        {
+          "name": "brisbane",
+          "region_name": "Australia",
+          "url": "http://brisbane.craigslist.com.au"
+        },
+        {
+          "name": "cairns",
+          "region_name": "Australia",
+          "url": "http://cairns.craigslist.com.au"
+        },
+        {
+          "name": "canberra",
+          "region_name": "Australia",
+          "url": "http://canberra.craigslist.com.au"
+        },
+        {
+          "name": "darwin",
+          "region_name": "Australia",
+          "url": "http://darwin.craigslist.com.au"
+        },
+        {
+          "name": "gold coast",
+          "region_name": "Australia",
+          "url": "http://goldcoast.craigslist.com.au"
+        },
+        {
+          "name": "melbourne",
+          "region_name": "Australia",
+          "url": "http://melbourne.craigslist.com.au"
+        },
+        {
+          "name": "newcastle, NSW",
+          "region_name": "Australia",
+          "url": "http://ntl.craigslist.com.au"
+        },
+        {
+          "name": "perth",
+          "region_name": "Australia",
+          "url": "http://perth.craigslist.com.au"
+        },
+        {
+          "name": "sydney",
+          "region_name": "Australia",
+          "url": "http://sydney.craigslist.com.au"
+        },
+        {
+          "name": "tasmania",
+          "region_name": "Australia",
+          "url": "http://hobart.craigslist.com.au"
+        },
+        {
+          "name": "wollongong",
+          "region_name": "Australia",
+          "url": "http://wollongong.craigslist.com.au"
+        }
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "sub_regions": [
+        {
+          "name": "auckland",
+          "region_name": "New Zealand",
+          "url": "http://auckland.craigslist.org"
+        },
+        {
+          "name": "christchurch",
+          "region_name": "New Zealand",
+          "url": "http://christchurch.craigslist.org"
+        },
+        {
+          "name": "dunedin",
+          "region_name": "New Zealand",
+          "url": "http://dunedin.craigslist.co.nz"
+        },
+        {
+          "name": "wellington",
+          "region_name": "New Zealand",
+          "url": "http://wellington.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Argentina",
+      "sub_regions": [
+        {
+          "name": "buenos aires",
+          "region_name": "Argentina",
+          "url": "http://buenosaires.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "sub_regions": [
+        {
+          "name": "bolivia",
+          "region_name": "Bolivia",
+          "url": "http://lapaz.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Brazil",
+      "sub_regions": [
+        {
+          "name": "belo horizonte",
+          "region_name": "Brazil",
+          "url": "http://belohorizonte.craigslist.org"
+        },
+        {
+          "name": "brasilia",
+          "region_name": "Brazil",
+          "url": "http://brasilia.craigslist.org"
+        },
+        {
+          "name": "curitiba",
+          "region_name": "Brazil",
+          "url": "http://curitiba.craigslist.org"
+        },
+        {
+          "name": "fortaleza",
+          "region_name": "Brazil",
+          "url": "http://fortaleza.craigslist.org"
+        },
+        {
+          "name": "porto alegre",
+          "region_name": "Brazil",
+          "url": "http://portoalegre.craigslist.org"
+        },
+        {
+          "name": "recife",
+          "region_name": "Brazil",
+          "url": "http://recife.craigslist.org"
+        },
+        {
+          "name": "rio de janeiro",
+          "region_name": "Brazil",
+          "url": "http://rio.craigslist.org"
+        },
+        {
+          "name": "salvador, bahia",
+          "region_name": "Brazil",
+          "url": "http://salvador.craigslist.org"
+        },
+        {
+          "name": "sao paulo",
+          "region_name": "Brazil",
+          "url": "http://saopaulo.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Caribbean Islands",
+      "sub_regions": [
+        {
+          "name": "caribbean islands",
+          "region_name": "Caribbean Islands",
+          "url": "http://caribbean.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Chile",
+      "sub_regions": [
+        {
+          "name": "chile",
+          "region_name": "Chile",
+          "url": "http://santiago.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Colombia",
+      "sub_regions": [
+        {
+          "name": "colombia",
+          "region_name": "Colombia",
+          "url": "http://colombia.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Costa Rica",
+      "sub_regions": [
+        {
+          "name": "costa rica",
+          "region_name": "Costa Rica",
+          "url": "http://costarica.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Dominican Republic",
+      "sub_regions": [
+        {
+          "name": "dominican republic",
+          "region_name": "Dominican Republic",
+          "url": "http://santodomingo.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "sub_regions": [
+        {
+          "name": "ecuador",
+          "region_name": "Ecuador",
+          "url": "http://quito.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "El Salvador",
+      "sub_regions": [
+        {
+          "name": "el salvador",
+          "region_name": "El Salvador",
+          "url": "http://elsalvador.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Guatemala",
+      "sub_regions": [
+        {
+          "name": "guatemala",
+          "region_name": "Guatemala",
+          "url": "http://guatemala.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Mexico",
+      "sub_regions": [
+        {
+          "name": "acapulco",
+          "region_name": "Mexico",
+          "url": "http://acapulco.craigslist.com.mx"
+        },
+        {
+          "name": "baja california sur",
+          "region_name": "Mexico",
+          "url": "http://bajasur.craigslist.com.mx"
+        },
+        {
+          "name": "chihuahua",
+          "region_name": "Mexico",
+          "url": "http://chihuahua.craigslist.com.mx"
+        },
+        {
+          "name": "ciudad juarez",
+          "region_name": "Mexico",
+          "url": "http://juarez.craigslist.com.mx"
+        },
+        {
+          "name": "guadalajara",
+          "region_name": "Mexico",
+          "url": "http://guadalajara.craigslist.com.mx"
+        },
+        {
+          "name": "guanajuato",
+          "region_name": "Mexico",
+          "url": "http://guanajuato.craigslist.com.mx"
+        },
+        {
+          "name": "hermosillo",
+          "region_name": "Mexico",
+          "url": "http://hermosillo.craigslist.com.mx"
+        },
+        {
+          "name": "mazatlan",
+          "region_name": "Mexico",
+          "url": "http://mazatlan.craigslist.com.mx"
+        },
+        {
+          "name": "mexico city",
+          "region_name": "Mexico",
+          "url": "http://mexicocity.craigslist.com.mx"
+        },
+        {
+          "name": "monterrey",
+          "region_name": "Mexico",
+          "url": "http://monterrey.craigslist.com.mx"
+        },
+        {
+          "name": "oaxaca",
+          "region_name": "Mexico",
+          "url": "http://oaxaca.craigslist.com.mx"
+        },
+        {
+          "name": "puebla",
+          "region_name": "Mexico",
+          "url": "http://puebla.craigslist.com.mx"
+        },
+        {
+          "name": "puerto vallarta",
+          "region_name": "Mexico",
+          "url": "http://pv.craigslist.com.mx"
+        },
+        {
+          "name": "tijuana",
+          "region_name": "Mexico",
+          "url": "http://tijuana.craigslist.com.mx"
+        },
+        {
+          "name": "veracruz",
+          "region_name": "Mexico",
+          "url": "http://veracruz.craigslist.com.mx"
+        },
+        {
+          "name": "yucatan",
+          "region_name": "Mexico",
+          "url": "http://yucatan.craigslist.com.mx"
+        }
+      ]
+    },
+    {
+      "name": "Nicaragua",
+      "sub_regions": [
+        {
+          "name": "nicaragua",
+          "region_name": "Nicaragua",
+          "url": "http://managua.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Panama",
+      "sub_regions": [
+        {
+          "name": "panama",
+          "region_name": "Panama",
+          "url": "http://panama.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Peru",
+      "sub_regions": [
+        {
+          "name": "peru",
+          "region_name": "Peru",
+          "url": "http://lima.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Puerto Rico",
+      "sub_regions": [
+        {
+          "name": "puerto rico",
+          "region_name": "Puerto Rico",
+          "url": "http://puertorico.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "sub_regions": [
+        {
+          "name": "montevideo",
+          "region_name": "Uruguay",
+          "url": "http://montevideo.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Venezuela",
+      "sub_regions": [
+        {
+          "name": "venezuela",
+          "region_name": "Venezuela",
+          "url": "http://caracas.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Virgin Islands, U.S.",
+      "sub_regions": [
+        {
+          "name": "virgin islands",
+          "region_name": "Virgin Islands, U.S.",
+          "url": "http://virgin.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Egypt",
+      "sub_regions": [
+        {
+          "name": "egypt",
+          "region_name": "Egypt",
+          "url": "http://cairo.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Ethiopia",
+      "sub_regions": [
+        {
+          "name": "ethiopia",
+          "region_name": "Ethiopia",
+          "url": "http://addisababa.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Ghana",
+      "sub_regions": [
+        {
+          "name": "ghana",
+          "region_name": "Ghana",
+          "url": "http://accra.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Kenya",
+      "sub_regions": [
+        {
+          "name": "kenya",
+          "region_name": "Kenya",
+          "url": "http://kenya.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "Morocco",
+      "sub_regions": [
+        {
+          "name": "morocco",
+          "region_name": "Morocco",
+          "url": "http://casablanca.craigslist.org"
+        }
+      ]
+    },
+    {
+      "name": "South Africa",
+      "sub_regions": [
+        {
+          "name": "cape town",
+          "region_name": "South Africa",
+          "url": "http://capetown.craigslist.co.za"
+        },
+        {
+          "name": "durban",
+          "region_name": "South Africa",
+          "url": "http://durban.craigslist.co.za"
+        },
+        {
+          "name": "johannesburg",
+          "region_name": "South Africa",
+          "url": "http://johannesburg.craigslist.co.za"
+        },
+        {
+          "name": "pretoria",
+          "region_name": "South Africa",
+          "url": "http://pretoria.craigslist.co.za"
+        }
+      ]
+    },
+    {
+      "name": "Tunisia",
+      "sub_regions": [
+        {
+          "name": "tunisia",
+          "region_name": "Tunisia",
+          "url": "http://tunis.craigslist.org"
+        }
+      ]
+    }
+  ]
+}
