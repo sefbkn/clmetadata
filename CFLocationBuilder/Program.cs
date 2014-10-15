@@ -29,8 +29,8 @@ namespace CFLocationBuilder
 
             // Pull categories from a listings page and retrieve all of the relevant information.
 
-            var regions = ClRegion.ParseRegionsFromHtml(locationsHtml);
-            var categories = ClCategory.ParseCategoriesFromHtml(categoriesHtml);
+            var regions = ClParser.ParseRegionsFromHtml(locationsHtml);
+            var categories = ClParser.ParseCategoriesFromHtml(categoriesHtml);
 
             // Write data to json files on the desktop.
             var targetDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);

@@ -11,8 +11,13 @@ namespace CFLocationBuilder
     {
         [JsonProperty(PropertyName = "name")]
         public string Name { get; set; }
-        [JsonProperty(PropertyName = "region_name")]
+
+        [JsonIgnore]
         public string RegionName { get; set; }
+
+        [JsonIgnore]
+        public string Country { get; set; }
+
         [JsonProperty(PropertyName = "url")]
         public string Url { get; set; }
     }

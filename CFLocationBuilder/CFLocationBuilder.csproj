@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ClCategory.cs" />
+    <Compile Include="ClCountry.cs" />
+    <Compile Include="ClParser.cs" />
     <Compile Include="ClSubCategory.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
